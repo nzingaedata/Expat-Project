@@ -1,0 +1,6 @@
+.DS_store
+.env
+.ipynb_checkpoints
+images
+info.docx
+chromedriver
