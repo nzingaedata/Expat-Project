@@ -1,6 +1,7 @@
 .DS_store
-.env
 .ipynb_checkpoints
+.env
+.gitignore
 images
 info.docx
 chromedriver
