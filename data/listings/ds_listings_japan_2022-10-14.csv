@@ -1,0 +1,2780 @@
+Company Name,Job Title,Location,Country,Job Description,Salary Estimate,Avg Salary,Size,Industry,Sector,Revenue,Rating,Recommend,CEO,Benefits,Opportunities,Comp Benefits,Culture,Management,WorkLife Balance,Pros,Cons,Num Listings,Reviews URL,Benefits URL
+株式会社ファーストリテイリング,データサイエンティスト / Data Scientist,,japan,"ブランド
+FAST RETAILING
+
+勤務地
+有明本部：東京都江東区有明1丁目6-7 UNIQLO CITY
+Ariake Office: UNIQLO CITY, 1-6-7 Ariake, Koto-ku, Tokyo 135-0063, Japan.
+
+更新日
+2022/10/14
+
+職務内容 Job Description
+English follows Japanese
+ファーストリテイリンググループは、従来の小売業という枠組みを超え、""情報製造小売業""(Digital Consumer Retail Company)へと業態を変革するため、全社改革”有明プロジェクト”を推進しています。その実現に向けて、我々デジタル業務改革サービス部は、最新のテクノロジーを活用したグローバル化、クラウド化、モバイル化の推進に留まらず、利益を創出するIT=“攻めのIT”として、全社の業務改革をリードしています。本ポジションでは、1) データサイエンティスト、2) データサイエンティスト(リーダー職)として、当社内のデータ分析をリード頂く方を募集します。
+
+デジタル業務改革サービス部は、常にお客様視点で業務の”あるべき姿”を定義し、最新のIT技術を活用した業務改革をリード、実現することをミッションとしています。”有明プロジェクト”実現のため、EC・店舗システムの他、サプライチェーンを中心とする基幹システムの内製開発も加速度的に進めており、プロジェクトマネージャーの他、内製開発エンジニア、データサイエンティスト、UI/UXデザイナー等、幅広い職種の人材が活躍しています。当部門のデータ分析チームでは、高い専門性を持つデータサイエンティストが一体となり、商品企画の高度化、需要予測の精緻化、サプライチェーンの最適化等に取り組んでいます。
+
+1)データサイエンティスト
+データ分析組織に所属し、データ分析プロジェクトにおいて、分析設計、データ解析、アルゴリズム開発、レポーティングのパートを主に担当いただきます。
+ビジネスの各業務プロセスを理解し、プロジェクトの各メンバーと連携を取りながら、ビジネス課題解決のための分析設計、データ収集、前処理、データ解析および結果の評価を行います。
+
+2)データサイエンティスト(リーダー職)
+リーダー職の方には、データサイエンティストとしての職務に加えて、データ分析組織のチームビルディングやマネジメント、メンバー育成などもご担当いただき、チームとしての成果を追求していただきます。
+また、チームマネジメント業務だけでなく、プレイングマネジャーとしてご自身でも実務に取り組んでいただきます。
+
+補足1: ファーストリテイリングの分析プロジェクトは、主に以下のメンバーがアサインされます。
+( )内は役割:
+・事業側担当者(分析結果を実際に事業で活用する)
+・ビジネスアナリスト(事業側とIT組織を繋ぐ)
+・プロジェクトマネージャ(プロジェクトの立ち上げ・管理・運営)
+・データサイエンティスト(分析設計・アルゴリズム開発・データ解析・レポーティング)
+・データエンジニア・インフラエンジニア(データ分析環境・データベース整備)
+・システムエンジニア(分析結果のシステム連携・実装)
+
+補足2: データ分析環境に関して
+データベースおよび計算環境としてGCP、AWSを利用しています。また、一般的なものであれば、SQLクライアントや分析ソフトウェアなどに制約はなく、必要に応じて導入いただけます。
+
+・データサイエンティストとして担当領域での専門性を高めることに加えて、同チーム内で取扱う様々なテーマを担当することで、キャリアの幅を広げることが出来ます。
+・データエンジニアリングチームを始めとする部門内異動の他、協働関係にある商品企画・生産・物流・デジタルマーケティング等、他部門への異動機会も豊富にあります。
+
+Fast Retailing co., ltd. will transform our business format into a “Digital Consumer Retail Company” to provide new services to our customers, regardless of the framework of retail business. The Digital Business Transformation Services Department, being at the very core of achieving our goals by not only promoting globalization, cloud migration, and mobilization using the leading-edge technology, is the proactive IT itself. We are looking for a Data Scientist or Data Scientist (Leader) to lead our data analysis efforts.
+
+The mission of the Digital Business Transformation Services Department is to define the ""ideal"" form of business from the customer's perspective and to lead and realize business innovation using the latest IT technologies. In order to realize the ""Ariake Project"", in addition to EC and store systems, in-house development of enterprise systems is also being promoted at an accelerated pace. In addition to project managers, we have a wide range of professionals including in-house engineers, data scientists, and UI/UX designers. The data analysis team is a team of highly skilled data scientists working together to improve the sophistication of product planning, refine demand forecasts, and optimize the supply chain, and so on.
+
+1) Data Scientist
+You will belong to the data analytics team and engage in the analysis design, data analysis, algorithm development, and reporting to each project.
+Specifically, you will be responsible for understanding each business process and collaborating with each member of the project to design analysis, data collection, pre-processing, data analysis, and evaluation of the results to solve business issues.
+In addition, depending on the status of the project, the candidate's wishes, and the mission grade, you will be responsible for tasks beyond the role of data scientist (project manager, business analyst, etc.).
+
+2) Data Scientist (Leader Position)
+In addition to the responsibilities as a data scientist, the leader will be responsible for team building, management, and member training for the data analytics team, and will pursue results as a team.
+You will also be responsible for team building, management, and member training of the data analysis organization, as well as team management.
+
+
+We use GCP and AWS as our database and computing environment. There are no restrictions on SQL clients or analysis software, as long as they are common, and you can implement them as needed.
+
+・In addition to developing your expertise in your area of responsibility, you will be able to broaden your career by working on various topics within the team.
+・In addition to transfers within the department, such as to the data engineering team, there are many opportunities to transfer to other departments, such as product planning, production, logistics, and digital marketing.",,,,,,,,,,,,,,,,,,92,,
+Dupont,Data Scientist,,japan,"To be the best science company in the world, we need more than scientists. We need passionate people who are the best at finance, human resources, law, logistics, and so much more. While we’re deeply rooted in science, DuPont careers span a wide range of skills and disciplines. Our teams are focused on achieving the best results for our customers and the business. They're inspired by innovation, excited by collaboration, and strive to achieve more agile ways of moving the business forward. Learn more about us here: https://www.dupont.com
+The data scientist/engineer will work with DuPont manufacture teams and Continuous Improvement teams. They are going to be part of a project team to develop an end-to-end solution for manufacture operators to enhance or improve their operation efficiency and effectiveness by optimize the process monitoring, prediction and decrease failure rate. In a data scientist role, you will be responsible for modeling complex manufacturing process problems, discovering insights and identifying opportunities through the use of statistical, machine learning, mining and visualization techniques.",,,,,,,,,,,,,,,,,,92,,
+Dupont,R&D Analytical Scientist,,japan,"Our industry-leading innovations, deep materials science expertise, and best-in-class manufacturing make next-generation technology a reality for our customers.
+We’re pursuing new technologies and performance materials that enable your designs to be smaller, more complex, more reliable, and more powerful than you could ever imagine. DuPont is a technology leader, serving the semiconductor, circuit board, industrial, display, digital and flexographic printing, healthcare, aerospace, industrial and transportation industries. Every day, we’re solving our customers’ biggest challenges and are honored to be their partner of choice.
+Learn more about our Featured solutions here: https://www.dupont.com/about/our-businesses.html
+DuPont Electronics and Industrial business group has an exciting opportunity for a R&D Analytical Scientist in the DuPont Electronic Polymers (DEP) business. This role will be based in Utsunomiya (UTC), Japan and it resides within the R&D organization of DEP business focused on the development of electronic polymers for advanced lithography applications and associated polymer process technologies. DEP is an established and inclusive organization with core competency in developing and manufacturing electronic grade polymers for lithographic applications in semiconductor manufacturing industry.",,,,,,,,,,,,,,,,,,92,,
+Takeda Pharmaceutical,"Scientist, Process Development - Cell Therapy",,japan,"By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.
+Job Description
+タケダの紹介
+タケダでは、常に患者さんを中心に考え、その生活を豊かにするためにイノベーションを推進しています。そして、従業員一人ひとりにそれぞれの能力と熱意に応じた成長の機会を提供することにも組んで取り組んでいます。私たちと一緒に、世界中の人々のいのちに貢献し、さらなる成長と活躍を目指しませんか。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fujisawa, Japan
+Employee
+Regular
+Full time",,,,,,,,,,,,,,,,,,92,,
+オルグロー株式会社,Data Engineer/Scientist,,japan,"給与
+経験、スキルによって協議のうえ決定（月給制）
+待遇
+通勤費全額支給、各種社会保険完備、昇給査定 年1回、在宅勤務制度有
+
+雇用形態
+正社員
+業務内容
+データ分析基盤、分析モデルの設計と構築。
+必須条件
+データエンジニア/データサイエンティストとしての実務経験
+歓迎条件
+心理統計学分野におけるデータ分析の経験。ピープルアナリティクスなど人事経営部門と連携したデータ分析の経験。営業職の採用選考に関わった経験。",,,,,,,,,,,,,,,,,,92,,
+Synspective,Applied Scientist,,japan,"Responsibilities:
+Research and develop innovative geo-solutions, including:
+Deeply investigate the latest advances in relevant fields (machine learning, computer vision, and remote sensing) and design your own methods by handpicking, customizing, combining, or devising algorithms
+Choose, combine, and process appropriate satellite/geographic datasets depending on tasks
+Perform experiments to check the feasibility/validity of your own methods and dataset
+Summarize and report results in a clear and easy-to-understand manner
+Implement statistical and machine learning technologies and help software engineers deploy them into production",,,,,,,,,,,,,,,,,,92,,
+中外製薬グループ,バイオマーカーサイエンティスト / Biomarker Scientist,,japan,"／Job duties
+募集背景：
+開発テーマ数の増大と早期開発段階における自社プロジェクトの価値最大化に向けたバイオマーカー臨床研究機能の強化方針に伴い、バイオマーカーサイエンティスト職の募集を行います。IHC、ELISA、LC-MS/MS、フローサイトメトリー、NGS、PCRなどによる、様々なバイオマーカーの臨床測定について、Fit-For-Purposeに基づいた開発とバリデーションの検討を行い、信頼性を確保したデータを創出するというミッションを担う人財を募集します。
+
+Background to recruitment:
+We are recruiting for the position of Biomarker Scientist in accordance with our policy to strengthen our biomarker clinical research functions in order to increase the number of development themes and maximize the value of our own projects in the early development stage. Human resources are recruited for the mission of developing and validating clinical sample assays of various biomarkers, using IHC, ELISA, LC-MS/MS, flow cytometry, NGS, and PCR, based on a fit-for-purpose basis, and creating reliable data.
+
+仕事内容：
+・バイオマーカー（BM）を測定するための新規技術のベンチマーキング
+・新規および既存の測定技術を自社プロジェクトに適用し、BM戦略の推進に貢献する
+・IHC、ELISA、LC-MS/MS、フローサイトメトリー、NGS、PCRなどによるBMの臨床測定について、Fit-For-Purposeに基づいた開発とバリデーション試験を実施
+・GCP下におけるBMの測定管理（解析に使う前までのデータ創出のプロセス管理）
+・信頼性を確保したデータを創出し、BM解析に供する
+・BM測定系に関する治験開始時の規制当局対応
+・社内外のステークホルダーとの協働/ネットワーキングをプロアクティブに行う
+
+Description of work:
+・Benchmarking of novel technologies for measuring biomarkers (BM)
+・Apply new and existing bioanalytical technologies to our own projects and contribute to the promotion of BM strategy
+・Fit-For-Purpose assay development and validation studies for clinical sample assays of BM, using IHC, ELISA, LC-MS/MS, flow cytometry, NGS, and PCR
+・Bioanalytical management of BM under GCP (process management of data generation before use for analysis)
+・Create reliable data for BM analysis
+・Regulatory response at the start of clinical trials for BM assays
+・Proactive collaboration and networking with internal and external stakeholders",,,,,,,,,,,,,,,,,,92,,
+アフラック,Data Scientist,,japan,"求人カテゴリー
+07.IT・デジタル部門
+職種名
+Data Scientist
+職務内容
+Mission
+・データ分析、アナリティクスに関する高度な専門スキル・知識を活用し、Aflacのビジネスパフォーマンスを向上させる
+・Aflac内の様々なデータを活用しビジネス課題を特定し解決に導く
+
+Scope of responsibilities（責任範囲）
+・データサイエンスの知識を活用し、様々な側面でAflacのビジネス価値向上に貢献する
+・Aflac社内におけるデータアナリティクスに関するプロジェクトを幅広く実施する
+・データの観点からAflacの解決すべき課題をCDOやビジネス部門など関連するステークに提言し、新たな価値創出機会を提供する
+・データアナリティクスのエバンジェリストとしてDI推進のケイパビリティについての社内認知やプレゼンスを向上させる
+・トレーニングや勉強会などを開くことによって社内のケイパビリティを底上げする
+・最新のアナリティクスの動向を把握し、Aflacへの適用機会を検討し新たな価値創出に貢献する",,,,,,,,,,,,,,,,,,92,,
+Qualtrics,"XM Scientist, Employee Experience",,japan,"The Qualtrics XM Platform™ is a system of action that helps businesses to attract customers who stay longer and buy more, to engage and empower employees to do the best work of their lives, to develop breakthrough products people love, and to build a brand people can’t imagine living without.
+
+Joining Qualtrics means becoming part of a team bold enough to chase breakthrough experiences - like building a technology that will be a force for good. A team committed to diversity, equity, and inclusion because of a conviction that every voice holds value, with a vision for representation that matches the world around us and inclusion that far exceeds it. You could belong to a team whose values center on transparency, being all in, having customer obsession, acting as one team, and operating with scrappiness. All so you can do the best work of your career.
+
+We believe every interaction is an opportunity. Are we yours?",,,,,,,,,,,,,,,,,,92,,
+Indeed,Staff Data Scientist - Search Machine Learning Platform,,japan,"Your Job
+The Search Machine Learning Platform team builds the end-to-end machine learning platform that supports Indeed’s most mission and performance critical products. The team’s mission is to provide the machine learning platform that leverages Indeed’s massive volume of data and incorporates the latest machine learning trends and technologies to power critical products like job search and recommendation teams. We strive to enable teams across Indeed to match every job seeker with the most relevant jobs. The team also ‘dogfoods’ the platform to serve and iteratively improve machine learning models used in all aspects of the job search experience.
+
+As the Staff Data Scientist for this team, you will partner with your team and lead the machine-learning platform evolution that will serve Indeed for years to come. You will lean on the team’s and your technical expertise to serve Indeed’s unique machine learning challenges. You will partner with both engineers and data scientists on your team, and across Indeed products to this end.",,,,,,,,,,,,,,,,,,92,,
+株式会社ハースト・デジタル・ジャパン,データ サイエンティスト / データ エンジニア Data Scientist / Data Engineer,,japan,"募集の背景
+メディアが取り巻く環境が大きく変わる中、当社は雑誌を発行する出版社からデジタル・パブリッシャーへの変革を進め、”これから”のメディア企業としての飛躍を目指しています。
+当社では、読者・ユーザーへのよりよいサービスの提供や、クライアントへの新しいマーケティングソリューションの提供を目的に、雑誌・デジタルメディア・広告・eコマースが持つ各種データをの統合・分析を積極的に実施しています。
+その中心となるのがデータスタジオであり、この度、チームの体制強化を目的に、新たにデータ サイエンティストを募集いたします。
+当社の「データスタジオ」についてはこちら
+業務内容",,,,,,,,,,,,,,,,,,92,,
+Takeda Pharmaceutical,"Principal Scientist, Cell therapy, T-CiRA Discovery/ T-CiRA ディスカバリー 細胞療法 主任研究員",,japan,"By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.
+Job Description
+タケダの紹介
+Takeda is unwavering in our commitment to patients. With the patient at the center of everything we do, we continue to innovate and drive changes that will better their lives - we’re looking for like-minded professionals to join us.
+
+
+
+Fujisawa, Japan
+Employee
+Regular
+Full time",,,,,,,,,,,,,,,,,,92,,
+かっこ株式会社,データサイエンティスト DATA SCIENTIST,,japan,"中途採用 募集要項
+雇用形態
+正社員
+
+勤務地
+本社 ※在宅勤務制度の利用により、在宅勤務も可能
+
+業務内容
+解析案件のチームマネジメント、社内外の調整
+
+新規サービスの企画立上げ、要件定義、開発、テスト、リリース
+
+サービス改善案の取りまとめ、優先度の判断",,,,,,,,,,,,,,,,,,92,,
+株式会社MonotaRO,データサイエンティスト(自然言語処理)/ Data Scientist (NLP),,japan,"採用情報
+業務内容
+モノタロウは「資材調達ネットワークを変革する」ことをミッションに、様々な事業・産業で働く人々が仕事で必要とする、ありとあらゆるモノを取り扱うECサイトを運営しています。現在、登録ユーザー数480万件（2020.09）を突破し1800万点以上（2020.09）の商品を取扱うWebサービスへと成長しています。
+当社サービスでは積極的にデータサイエンスの適用を行っており、ECサイトにおける商品検索・レコメンド機能はもとより、マーケティング全般や物流サービスなどにおいて幅広くデータを活用しています。
+本ポジションは、自然言語処理の専門性を活かし、当社の商品検索の改善、商品情報の最適化、商品情報やレビュー情報におけるテキストマイニングの実施を行うことにより、当社のECサービスを世界でも最も商品が探しやすく、見つかりやすいものにすることがミッションです。",,,,,,,,,,,,,,,,,,92,,
+Takeda Pharmaceutical,"Principal Scientist, Human Genetics",,japan,"By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.
+Job Description
+タケダの紹介
+タケダでは常に患者さんを中心に考え、世界中の人々により健やかで輝かしい未来をお届けすることを目指してきました。そして従業員一人ひとりにそれぞれの能力と熱意に応じた成長の機会を提供することにも組んで取り組んでいます。私たちと一緒に、世界中の人々のいのちに貢献し、さらなる成長と活躍を目指しませんか。
+Fujisawa, Japan
+Employee
+Regular
+Full time",,,,,,,,,,,,,,,,,,92,,
+中外製薬グループ,領域サイエンス職　データサイエンス担当 / Scientific job in disease area (Data Scientist),,japan,"／Job duties
+募集背景：
+エビデンス創出活動のプロジェクト急増により、研究計画の立案および臨床試験のオペレーションを実施するための要員が不足しているため、即戦力として活躍できる人財を募集
+
+Background to Recruitment:
+Recruitment of personnel who can take immediate actions on and clinical trial planning and operations conducted in Medical Affairs Division.
+
+仕事内容：
+医療ビックデータやリアルワールドデータ（RWD）などの革新的な手法を用いてメディカル活動を企画、推進する。
+
+Description of Work:
+Plan and promote medical activities using innovative methods such as medical big data and real world data (RWD).",,,,,,,,,,,,,,,,,,92,,
+株式会社MonotaRO,データサイエンティスト(データ分析 / モデリング)/ Data Scientist (Data Analysis / Data Modelling),,japan,"採用情報
+業務内容
+モノタロウは「資材調達ネットワークを変革する」ことをミッションに、様々な事業・産業で働く人々が仕事で必要とする、ありとあらゆるモノを取り扱うECサイトを運営しています。現在、登録ユーザー数480万件（2020.09）を突破し1800万点以上（2020.09）の商品を取扱うWebサービスへと成長しています。
+当社サービスでは積極的にデータサイエンスの適用を行っており、ECサイトにおける商品検索・レコメンド機能はもとより、マーケティング全般や物流サービスなどにおいて幅広くデータを活用しています。
+本ポジションは、当社の持つ多くのデータの分析やモデリングを通じて、マーケティングの最適化やECサイトの改善の企画立案から分析の実施などを行うことで、当社のECサービスを世界でも最も商品が探しやすく、見つかりやすいものにすることがミッションです。",,,,,,,,,,,,,,,,,,92,,
+株式会社MonotaRO,データサイエンティスト(マーケティング) / Data Scientist (Marketing),,japan,"採用情報
+業務内容
+モノタロウは「資材調達ネットワークを変革する」ことをミッションに、様々な事業・産業で働く人々が仕事で必要とする、ありとあらゆるモノを取り扱うECサイトを運営しています。現在、登録ユーザー数480万件（2020.09）を突破し1800万点以上（2020.09）の商品を取扱うWebサービスへと成長しています。
+当社サービスでは積極的にデータサイエンスの活用を行っており、ECサイトにおける商品検索・レコメンド機能はもとより、マーケティング全般や物流サービスなどにおいて幅広くデータを活用しています。
+本ポジションは、顧客データの分析やモデリングを通じて、顧客とのコミュニケーションのあるべき姿を定義することがミッションです。主な業務として、メール、チラシ等の当社プロモーションの各種要素最適化、顧客行動の要因分析などの業務に関わっていただきます。機械学習や数理最適化のモデルを作成することが最終目的ではなく、データの背後に潜む顧客のニーズや行動要因を探るため、コンテンツ担当チームや他のエンジニアとの深いコミュニケーションが必要とされます。",,,,,,,,,,,,,,,,,,92,,
+MSD,"Data Analytics & Insights, Data Scientist, Senior Specialist,",,japan,"Job Description
+Summary of job scope:
+We are seeking Data Scientists with growth mindset, to work closely with cross-functional business teams adopting agile ways of working to create business values and outcomes with data and Advanced Data Analytics.
+Primary Activities:
+Provide business outcomes that drive change management: Not only design solutions leveraging analytical approaches and best practices, but also write code, build prototypes, create and present documents, and deliver data-driven, actionable insights and business outcomes to stakeholders and management.
+Implement technology modernization: Implement modern technologies related to Advanced Analytics, Machine Learning and AI, to improve business processes and efficiency of our company.
+
+Regular
+No relocation
+1",,,,,,,,,,,,,,,,,,92,,
+MSD,"Data Analytics & Insights, Data Scientist, Associate Director,",,japan,"Job Description
+Associate Director, Data Scientist
+Summary of job scope:
+We are seeking Senior Data Scientists with growth mindset, to work closely with cross-functional business teams adopting agile ways of working, to create business values and outcomes with data and Advanced Data Analytics.
+Primary Activities:
+Provide business outcomes that drive change management: Not only design solutions leveraging analytical approaches and best practices, but also write code, build prototypes, create and present documents, and deliver data-driven, actionable insights and business outcomes to stakeholders and management.
+
+Regular
+No relocation
+1",,,,,,,,,,,,,,,,,,92,,
+Takeda Pharmaceutical,"Principal Scientist, Drug Safety Research and Evaluation, Computational Biology",,japan,"By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.
+Job Description
+Takeda is unwavering in our commitment to patients. With the patient at the center of everything we do, we continue to innovate and drive changes that will better their lives - we’re looking for like-minded professionals to join us.
+Today, we are the number one pharmaceutical company in Japan and a global industry leader, with approximately 50,000 employees around the world. We are united by our four priorities (patient, trust, reputation and business) and Takeda-ism (Integrity, Fairness, Honesty and Perseverance), and strive towards better health and a brighter future for people worldwide.
+
+
+
+Fujisawa, Japan
+Employee
+Regular
+Full time",,,,,,,,,,,,,,,,,,92,,
+中外製薬グループ,ゲノミクス・プロテオミクスのデータ解析スペシャリスト / Data Scientist in Genomics and Proteomics Research,,japan,"／Job duties
+募集の背景：
+創薬標的探索、バイオマーカー探索、薬剤作用機序解明等において各種オミックスデータ解析の必要性が高まっており、加えて新たな解析手法による知見獲得が求められているため。
+
+仕事内容：
+創薬研究および臨床開発のプロジェクトにおいて、以下の研究を推進する。
+・各種オミックスデータ（ゲノミクス、プロテオミクス）の解析
+・LC-MS/MSおよび NGSデータ解析ツールの改良・開発
+・各種オミックスデータを起点とした創薬仮説構築、機序解明、研究計画立案
+など
+
+Background to recruitment:
+Due to the increasing need of omics data analysis for drug target identification, biomarker discovery, and elucidation of drug’s mechanism of action. And in addition, novel insight acquisition by new analysis techniques is being demanded.
+
+Description of work:
+Promote the following research in drug discovery and pre-clinical projects.",,,,,,,,,,,,,,,,,,92,,
+中外製薬グループ,医薬品研究のデータサイエンティスト / Data Scientist in Pharmaceutical Research,,japan,"／Job duties
+募集の背景：
+創薬のトップイノベーターを目指すための施策として、デジタル・トランスフォーメーションによる研究開発プロセスの革新を進めています。この挑戦に一緒に取り組んでいただけるデータサイエンティスト・データエンジニア・インフォマティシャンを募集しています。
+
+About the Position:
+In our quest to become a top innovator in drug discovery, we are digitally transforming our R&D process. We are seeking talented data scientists, data engineers and informaticians to join us in this challenge.
+
+仕事内容：
+ご本人の希望やこれまでの経験・スキルに応じて以下のような研究に取り組んでいただきます。
+
+・抗体・低中分子の分子設計に必要な機械学習アルゴリズムの開発
+・大規模疾患ゲノム情報・リアルワールドデータ・病理画像などの医療ビッグデータから、疾患原因遺伝子・バイオマーカー・薬剤作用機序を同定するための高度データマイニング手法の開発
+・ゲノム・トランスクリプトーム・プロテオームなどの生命情報から細胞・組織あるいは生体レベルのデジタルツインを構築し、in silicoでのシミュレーション実験を可能にするための人工知能技術の開発
+
+You will:
+・Develop machine learning algorithms for designing brilliant new therapeutic antibodies and chemical compounds.
+・Develop advanced data mining methods for identifying disease-causing genes, drug biomarkers, and mode of action within medical big data (e.g., large-scale clinical genomics data, real-world data, pathological images)
+・Develop cutting edge artificial intelligence technologies that can construct cell-, tissue- or patient-level digital twins from biological data (e.g. genomics, transcriptomics, and proteomics data) for use in in silico simulations.",,,,,,,,,,,,,,,,,,92,,
+KLA,Software Engineer,,japan,"Company Overview
+KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and in 2019 we invested 15% of sales back into R&D. Our expert teams of physicists, engineers, data scientists and problem-solvers work together with the world’s leading technology providers to accelerate the delivery of tomorrow’s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us.
+With over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next-generation devices to volume production quickly and cost-effectively. Enabling the movement towards advanced chip design, KLA's Global Products Group (GPG), which is responsible for creating all of KLA’s metrology and inspection products, is looking for the best and the brightest research scientist, software engineers, application development engineers, and senior product technology process engineers. The Optical Metrology Division products are used for optical overlay metrology. The portfolio of products includes unique solution packages which are based on hardware and software systems to enhance yield and effectiveness. As a world leader in its field of expertise, the division's products are the most advanced in performance (measurement accuracy of nanometers and below), reliability, ease of use and compatibility with other KLA's products. KLA (Israel) controls over 80% of the world market sales in its field, and its products are used by every major semiconductor manufacturer around the world. KLA Israel is located in the Migdal Haemek Industrial Park.",,,,,,,,,,,,,,,,,,92,,
+MSD,R&D Oncology Science Unit Associate Principal Scientist (MD),,japan,"Job Description
+科学的・医学的な専門知識・経験を基に、国内の主要治験施設および研究機関のKey Opinion Leader (KOL)レベルの医師・研究者ならびに医療関係者を対象として、戦略的なレベルで科学的・医学的なエンゲージメントを行い、各種活動の基本とします。また、当社の最重点戦略品目である抗PD-1抗体はじめとする早期、後期開発プロジェクトの要となるMedical Doctor（MD）を募集しております。当社は、日本国内、米国本社に多数のMDが在籍、MD間の交流も盛んであり、当社におけるMDのキャリアも多様であることが特徴の一つです。
+以下にオンコロジーサイエンスユニットで現在、業務を行っているMDの職務内容を示します。今後、カジュアル面談などを通じてご本人のご興味、これまでの経験などを加味し、適切な業務にアサインしていくことを考えております。
+
+
+Regular
+Domestic
+2",,,,,,,,,,,,,,,,,,92,,
+株式会社出前館,データエンジニア,,japan,"仕事内容
+現在「シェアリングデリバリー」で急拡大中！
+国内最大の宅配注文サイト『出前館』を運営する株式会社出前館の Data Engineer の業務です。
+【具体的には】
+出前館の分析環境の運用・改善業務
+GCP/BigQuery運用
+MWAA運用
+Pythonを用いたETL開発・運用
+Tableau dashboard 管理
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://recruit.demae-can.com/engineer-recruitment/
+https://recruit.demae-can.com/about/in4minutes",,,,,,,,,,,,,,,,,,92,,
+Robert Walters,商業データサイエンティスト/ Commercial Data Scientist,,japan,"An international pharmaceutical company is looking for a Commercial Data Scientist. The successful candidate will be responsible for conducting analyses to increase sales and achieve business goals. This position is based in Osaka.
+Responsibilities:
+Handle the design of KPI structures
+Construct analytical ROI models for investment allocation
+Collaborate with key unit leaders to develop data science solutions
+Examine the application of machine learning and other algorithms
+Create a set of resources to mine and analyse local text data
+
+An international pharmaceutical company is looking for a Commercial Data Scientist. The successful candidate will be responsible for conducting analyses to increase sales and achieve business goals. This position is based in Osaka.",,,,,,,,,,,,,,,,,,92,,
+Global Career Agent Inc.,Data Scientist for Weather App,,japan,"Machine Learning (inc. Deep Learning) | Data Science | IoT, Telecom, Network | Web, Mobile App (Frontend / Backend)
+
+Location
+Chiba-shi, Chiba-ken
+
+Company
+Weather information provider headquartered in Japan.
+They provide sea, sky and land weather information and services to various clients across continents / industries, as well as B2C services.
+Their unique services are based on analysis and forecast of data collected from own sources such as micro satellites, weather sensors and radars, live cameras, plus the data contributed by individual and enterprise users / partners.
+They have 32 offices in 21 countries.
+
+Year of foundation: 1986
+Capital: JPY 1,706M
+2020 Revenue: JPY 17.9 billion
+Number of employees: 1,049",,,,,,,,,,,,,,,,,,92,,
+RIKEN(The Institute of Physical and Chemical Research),Postdoctoral Researcher or Research Scientist,,japan,"部署名
+Department
+Center for Brain Science
+
+
+機関種別
+Institution type
+National research institute / Independent administrative institute",,,,,,,,,,,,,,,,,,92,,
+株式会社 RevComm,Data Scientist(データサイエンティスト)/インターネット/Webサービス・ASP,,japan,"Data Scientist（データサイエンティスト）
+
+株式会社 RevComm - “AI×Voice Communication”をテーマに社会課題の解決に取り組むスタートアップ.「時価総額1兆円」のプラットフォーマーへ向け加速
+
+事業内容
+「コミュニケーションを再発明し、人が人を想う社会を創る」をミッションに掲げ、営業領域を中心にAI × Voice × Cloudのソフトウェア・データベースを提供しているSaaS企業です。直近では、人工知能（AI）技術を駆使した法人向けサービスの開発をおこなっており、営業におけるトークの可視化とセルフコーチング、テレワーク化を実現する音声解析AI電話「MiiTel」、AI搭載オンライン商談解析ツール「MiiTel for Zoom」を開発・提供しています。
+
+・受賞歴
+各種イベントでの受賞、 Forbes JAPAN「日本の起業家ランキング」にて2年連続TOP20入り、総務省後援のASPIC IoT・AI・クラウドアワードでの受賞をはじめ、数多くの受賞歴を持つとともに、国内有力スタートアップ経営者、グローバルを含む有力投資家より企業、プロダクトともに高く評価いただいております。
+
+・産学連携
+リサーチ分野では京都大学、筑波大学、九州工業大学と共同研究を実施。
+複数の論文が音声処理系トップカンファレンス「INTERSPEECH」にて採択されるなど、最先端の技術分野でも高い評価をいただいております。
+
+・Global展開
+インドネシアでは2021年10月に有償提供を開始し、現地企業を含む約50社に採用され、現地の有力SaaS企業との業務提携を進めています。
+
+・Growth Plan
+Vertical（垂直）、Horizontal（水平）、Parallel（平行）、Geographical（地理的）4方向に向けた成長戦略を掲げ、メインプロダクトのさらなる改善・発展、HRTech・MedTech・EdTechなどの新しい領域への横展開やグローバル事業推進に向けての取り組みを進めています。
+
+
+
+新しく立ち上げのポジションになります。データ分析だけではなく、課題発掘から最終のアウトプットまで、分析を通じた課題解決に幅広く携わります。
+
+＜業務範囲＞
+・顧客並びに社内の様々な課題に対して、データを起点とした分析のプロジェクトの立案
+・各プロジェクトにおいて、ビジネス課題に応じた効果的な統計解析手法の選定と実行まで行う。
+
+＜プロジェクト例＞
+・MiiTelのプロダクトに溜まったデータの解析を通じた、顧客支援。
+・顧客の利用状況のデータを解析することにより、プロダクト改善に向けた企画。
+・社内のカスタマーサクセス・マーケティング部門と協業して顧客インサイトを発信。
+・RevCommにおける有償サービス（Professional Service）の企画・立ち上げ・分析を軸にしたサービス提供
+
+
+MiiTelを利用してくださっている顧客と向き合い組織への浸透を深め、MiiTelのデータの強みを活用してRevCommの成長に寄与することができます。収益だけに留まらず事業全体への大きなインパクトを残すことができます。また、データの観点からアプローチして、プロダクト作りに直結できる面白さがあります。
+サービス立ち上げフェーズで幅広い経験とサービスで得られた知見をMiiTel全体に展開するというダイナミックな仕事です。
+
+
+参考: テクノロジースタック （計画を含む）
+リアルタイム性が求められるサービスや解析などを中心にマイクロサービス化し、サービスごとに適切なテクノロジーを採用しています。
+
+・バックエンド: Python (Django)、Elasticsearch
+・フロントエンド: React.js, Vue.js
+・分析：Python, Tensorflow, Keras, PyTorch
+・通信：SIP, VoIP, WebRTC, Websocket
+・インフラ：AWS, Google Cloud, Terraform
+・モバイルアプリ : Kotlin, Swift
+・コミュニケーションツール : Slack, GitHub, Confluence
+・BI ツール：Redash, Google Data Portal
+
+
+事業拡大に伴う増設のため新規採用
+
+
+
+「コミュニケーションを再発明し、人が人を想う社会を創る」をミッションに掲げ、営業領域を中心にAI × Voice × Cloudのソフトウェア・データベースを提供しているSaaS企業です。直近では、人工知能（AI）技術を駆使した法人向けサービスの開発をおこなっており、営業におけるトークの可視化とセルフコーチング、テレワーク化を実現する音声解析AI電話「MiiTel」、AI搭載オンライン商談解析ツール「MiiTel for Zoom」を開発・提供しています。
+また、インドネシアでは2021年10月に有償提供を開始し、現地企業を含む約50社に採用され、現地の有力SaaS企業との業務提携を進めています。
+
+
+
+150-0002 東京都渋谷区渋谷1-3-9 ヒューリック渋谷一丁目ビル7階
+
+
+渋谷駅から徒歩8分
+
+
+・［ITS］関東ITソフトウェア健康保険組合加入
+・リモート手当
+・交通費支給
+・社会保険完備
+・書籍、IT機器等購入補助
+・業務に関連するセミナー、勉強会、学会出席費用補助
+・オンライン講座受講 (Udemy, Udacity など)、資格取得補助
+・副業可
+・ストックオプション制度
+・15%ルール
+
+
+・週休2日制（土・日）、祝祭日
+・年間休日数：124日
+・年末年始休暇
+・夏季休暇
+・年次有給休暇
+(入社日に5日、6ヶ月経過後にさらに5日、計10日付与。その後は毎年入社月に法定通り付与します。)
+・家族休暇
+・誕生日休暇
+・慶弔休暇
+・傷病休暇
+・法定休暇（法律に規定がある休暇）
+
+
+・転勤なし。
+・フルフレックス。（コアタイムなし）
+・フルリモートワーク。
+（自宅を含み情報セキュリティが担保される場所であればどこでも就業は可能です。但し、一部職種を除きます。）
+
+
+資本金 9億3500万円
+設立年月 2017年07月
+従業員数 176人
+
+
+エンジニア・技術職（システム/ネットワーク） > データサイエンティスト
+営業職 > その他営業関連
+
+給与&nbsp;600万円〜1000万円
+雇用形態&nbsp;正社員",,,,,,,,,,,,,,,,,,92,,
+Dupont,Data Engineer,,japan,"To be the best science company in the world, we need more than scientists. We need passionate people who are the best at finance, human resources, law, logistics, and so much more. While we’re deeply rooted in science, DuPont careers span a wide range of skills and disciplines. Our teams are focused on achieving the best results for our customers and the business. They're inspired by innovation, excited by collaboration, and strive to achieve more agile ways of moving the business forward. Learn more about us here: https://www.dupont.com
+The data scientist/engineer will work with DuPont manufacture teams and Continuous Improvement teams. They are going to be part of a project team to develop an end-to-end solution for manufacture operators to enhance or improve their operation efficiency and effectiveness by optimize the process monitoring, prediction and decrease failure rate. In a data scientist role, you will be responsible for modeling complex manufacturing process problems, discovering insights and identifying opportunities through the use of statistical, machine learning, mining and visualization techniques.",,,,,,,,,,,,,,,,,,92,,
+Tapestry Japan,Business Analyst Assistant (Internship),,japan,"ジョブID
+3510
+勤務地
+Roppongi, Minato-ku
+職種
+インターンシップ
+給与形態",,,,,,,,,,,,,,,,,,92,,
+楽天グループ株式会社,楽天 Data Scientist for Travel Service,,japan,"仕事内容:
+Rakuten Travel (http…//travel.rakuten.com/) is looking for a Data Scientist who will impact the overall travel business by partnering with its various functions, from development to sales and marketing.
+
+Specifically, you'll be involved in
+
+募集条件:
+1. 4 or more years’ experience in application of either of machine learning, natural language processing, image processing, mathematical optimization, or economics.
+2. 4 or more of the following requirements…
+
+Ph.D degree from either of the fie雇用形態:
+正社員
+
+東京都玉川一丁目14番1号 楽天クリムゾンハウス
+
+
+二子玉川駅 徒歩3分
+
+
+システムエンジニア(Web・アプリ・オープン)
+
+楽天グループ株式会社　※人材紹介サービス『type転職エージェント』を通じて、ご応募いただく求人です。 ※本求人へのご応募は、『type転職エージェント』の無料転職サポートサービスへのお申し込みであり、募集企業様への直接応募とはなりませんのでご了承下さい。",,,,,,,,,,,,,,,,,,92,,
+株式会社RevComm,Data Scientist(データサイエンティスト),,japan,"【年収】:
+600〜1,000万円
+
+【仕事内容】:
+新しく立ち上げのポジションになります。データ分析だけではなく、課題発掘から最終のアウトプットまで、分析を通じた課題解決に幅広く携わります。
+
+<業務範囲>
+・顧客並びに社内の様々な課題に対して、データを起点とした分析のプロジェクトの立案
+・各プロジェクトにおいて、ビジネス課題に応じた効果的な統計解析手法の選定と実行まで行う。
+
+<プロジェクト例>
+・MiiTelのプロダクトに溜まったデータの解析を通じた、顧客支援。
+・顧客の利用状況のデータを解析することにより、プロダクト改善に向けた企画。
+・社内のカスタマーサクセス・マーケティング部門と協業して顧客インサイトを発信。
+・RevCommにおける有償サービス(Professional Service)の企画・立ち上げ・分析を軸にしたサービス提供。
+
+
+※契約社員採用の可能性もございます。
+
+<以下いずれも必須>
+・データ起点で問題発見と課題解決の経験(Python、 R)
+・統計、データサイエンスの知識並びに実務経験1年以上
+・ビジネス課題に応じた効果的な統計解析手法の選定する力
+※大学で勉強をしてきたというような経験ではなく、実務経験を必須とします。
+
+【歓迎】
+・自然言語処理(NLP)の知識・業務経験
+・BIツールを使った可視化
+・営業部門の或いはコールセンターの業務フローに関する知見
+・コンサルティングなどのプロジェクト型サービスの提案・推進経験
+
+
+正社員
+
+
+健康保険　厚生年金　雇用保険　労災保険
+
+
+慶弔休暇　年末年始　夏期休暇　有給休暇
+
+
+176064
+
+
+株式会社RevComm
+
+
+インターネット
+
+
+9億7,100万円
+
+
+東京都渋谷区渋谷
+
+
+125名
+
+
+2017年7月
+
+
+【音声データを可視化する電話サービス】
+同社は、BtoBサービスの第一弾として「MiiTel」というAI搭載型クラウドIP電話サービスを提供しています。端的に言うと、電話営業・顧客対応を人工知能で解析・可視化する事により企業の生産性を飛躍させるサービスです。電話営業や顧客対応の内容をAIがリアルタイムで解析し、成約率を上げ、解約率と教育コストの低下に繋げます。また、顧客管理システムとの連携により、顧客名をクリックするだけで簡単に発信できたり、着信時に顧客情報を自動表示し、生産性向上に役立てます。会話内容は顧客情報に紐付けてクラウド上で自動録音されるので、振り返りたい録音データにいつでも・どこでも・すぐにアクセスすることができ、教育目的やコンプライアンス目的など、多業界で幅広くご活用いただいています。
+
+
+日本のコミュニケーションの在り方をテクノロジーで変える】
+同社の代表取締役が商社に勤務していた頃、世界中の人と仕事をする中で「日本の生産性はG7の中で最下位とされているが、本当にそうなのか」という疑問を持つようになりました。生産性=能率×効率だとすると、日本人は教育水準・倫理観共に高い為、能率は担保されています。従って、効率が悪い為に生産性が低いことになります。効率が悪い理由は有象無象にありますが、主要因は「コミュニケーションコストが高いこと」という結論に至りました。すなわち、日本社会では「何を言ったか」ではなく、「誰が誰に言ったか」や「どう言ったか」に焦点が当たるようなコミュニケーションが多いということです。このコミュニケーションのあり方をテクノロジーで変えることが出来れば、日本の生産性は劇的に上がると考え同社を設立しました。
+
+【アポ獲得、成約理由を可視化、分析】
+現在、インサイドセールスやカスタマーサクセスに注目が集まっています。確かにインサイドセールスやカスタマーサクセスにより生産性は向上するのですが、効果を最大化する為にはテクノロジーの導入が欠かせません。実際CRMやSFA等のツール導入が進んでいるのですが、これらのツールは「How(どのように)」に主眼を置いたサービスであり、「Why(なぜ)」という観点が欠落しているため、結局「なぜ成約・失注したのか、なぜパフォーマンスにバラつきがあるのか」分からず労働集約型の属人的営業に陥っているのが実情です。これは、担当者と顧客が何をどの様に話しているか分からない「ブラックボックス問題」が常態化している為です。そこで、何をどの様に話しているかをAIで解析・可視化してブラックボックス問題を解消するサービスの展開を行っております。",,,,,,,,,,,,,,,,,,92,,
+ウエスタンデジタル合同会社,Data Scientist,,japan,"職種
+AI・データマイニング
+
+勤務地
+神奈川県藤沢市 藤沢事業所
+
+年収
+500万円～
+
+仕事内容
+職務概要：
+データ解析エンジニア・機械学習ユーザーのデータ要求事項の取りまとめ・仕様作成
+
+機械学習によるモデル作成と最適化およびデプロイ",,,,,,,,,,,,,,,,,,92,,
+KLA,Algorithm Engineer,,japan,"Company Overview
+KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and in 2019 we invested 15% of sales back into R&D. Our expert teams of physicists, engineers, data scientists and problem-solvers work together with the world’s leading technology providers to accelerate the delivery of tomorrow’s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us.
+With over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next-generation devices to volume production quickly and cost-effectively. Enabling the movement towards advanced chip design, KLA's Global Products Group (GPG), which is responsible for creating all of KLA’s metrology and inspection products, is looking for the best and the brightest research scientist, software engineers, application development engineers, and senior product technology process engineers. The Optical Metrology Division products are used for optical overlay metrology. The portfolio of products includes unique solution packages which are based on hardware and software systems to enhance yield and effectiveness. As a world leader in its field of expertise, the division's products are the most advanced in performance (measurement accuracy of nanometers and below), reliability, ease of use and compatibility with other KLA's products. KLA (Israel) controls over 80% of the world market sales in its field, and its products are used by every major semiconductor manufacturer around the world. KLA Israel is located in the Migdal Haemek Industrial Park.",,,,,,,,,,,,,,,,,,92,,
+AnyKan,Data scientist,,japan,"【職種名】
+Data scientist
+
+【仕事内容】
+Data scientist
+
+〇職種
+
+[オープン・WEB系] データ分析エンジニア
+
+お仕事詳細
+新規事業において、自然言語処理AIエンジンおよび周辺サービスの開発をお任せします。
+
+【具体的には…】
+AIエンジニアとして、チャット、SMS、RCS等で得られるテキストデータや、その他の手法で得られる様々なデータを解析して、
+各種予測・メトリクス算出等を行うAIエンジンの開発、およびそれを活用したサービスを開発していただきます。
+
+新規事業を担当する部門の所属であり、世の中のトレンドやお客様のニーズを取り入れながら、
+ダイナミックな活動をしていただくことができます。
+
+【給与】
+正社員年収 510万円 ～ 1200万円
+
+【勤務地】
+東京都港区
+
+【アクセス】
+東京メトロ銀座線虎ノ門駅B2出口より徒歩8分
+虎ノ門 @東京都港区
+
+【福利厚生】
+正社員年収 510万円 ～ 1200万円
+
+-お仕事の特徴-
+
+正社員
+
+【勤務時間】
+10:00 ～ 19:00(休憩1時間・実働8時間)
+
+【雇用形態】
+正社員
+
+【資格】
+-必須スキル-
+
+Python３年以上
+必須スキル（備考）
+・機械学習を用いたプロジェクトの要件定義やKPI設計に関する経験がある。
+・機械学習プロジェクトに携わった経験があり、そのプロジェクトで機械学習モデルに関するプログラムをコーディングした経験がある。
+・機械学習モデルをチューニングして精度を向上させることができる。
+・クラウドコンピューティング環境でWebサービス環境またはデータ分析環境を自ら構築することができる。
+
+-歓迎スキル-
+
+歓迎スキル（備考）
+・自然言語処理を用いたサービスの開発に関わった経験がある。
+・Python、R、など、機械学習や統計処理に親和性のあるプログラミング言語でWebサービスを構築した経験が3年以上ある。
+・コンピュータサイエンス、データサイエンス、統計学、またはこれらの分野と関連した研究テーマの論文で、博士号または修士号を取得している。
+・コンピュータサイエンス、データサイエンス、統計学に関連した査読付き投稿論文（paper）を第1著者として投稿した実績がある。",,,,,,,,,,,,,,,,,,92,,
+株式会社日経リサーチ,2024 インターンシップ シンクタンク,,japan,"株式会社日経リサーチ
+マーケティングリサーチ／データサイエンス／統計調査
+業種
+シンクタンク
+コンサルタント・専門コンサルタント／情報処理／インターネット関連／その他サービス
+
+本社
+東京
+
+【少人数開催】ビジネスデータに触れてみよう！",,,,,,,,,,,,,,,,,,92,,
+LINE株式会社,Technical Project Manager/ Data Platform室,,japan,"求人概要 / Role and Responsibility
+募集部門について
+LINEでは一億人を越えるユーザー数を誇るメッセンジャーをはじめ、金融・コンテンツ・AIなど様々な分野のサービスを世界中に提供しています。これらのサービスから日々大量のデータが生まれ、現在では250ペタバイトを越えるデータ量が蓄積されています。このデータはLINE STYLEの一つでもある「Always Data-driven」という観点から全社共有の財産として考えられています。
+本ポジションの募集部門であるData Platform室はデータの民主化（全社員が事業成長のためにデータを自由自在に活用できる状態）を目指しています。2018年頃から取り組みをはじめ、現在はデータを収集・分析・活用するためのData Platformを社内ユーザー（サービス開発担当者・サービス企画担当者）向けに公開し、利用の推進を行っています。
+
+業務内容
+Data Platform室のテクニカルプロジェクトマネージャー・プログラムマネージャーとして、データサイエンティストや機械学習エンジニアなどのデータ利用者やセキュリティ担当者などのステークホルダーと連携し、データ利活用におけるニーズや制約を整理し、Data Platform全体に関わるプロジェクトの推進をしていただきます。
+具体的な業務内容は以下の通りです。
+上記以外の基本的なプロジェクトマネジメントの仕事を適宜必要に応じて取り組んでいただきます。
+最近では、データウェアハウスの導入や、Yahoo!とのデータ連携のPoCなどのプロジェクトがありました。
+
+Data Platform室について
+https://linecorp.com/ja/career/lp/media/dataplatform",,,,,,,,,,,,,,,,,,92,,
+理化学研究所,研究員または特別研究員,,japan,"採用情報
+統合計算脳科学連携部門 脳画像解析開発ユニット(Henrik Skibbe) 研究員または特別研究員募集（W20294)
+2021年2月26日
+国立研究開発法人理化学研究所 脳神経科学研究センター
+統合計算脳科学連携部門 脳画像解析開発ユニット 研究員または特別研究員募集 (W20294)
+募集研究室",,,,,,,,,,,,,,,,,,92,,
+ヘイズ・スペシャリスト・リクルートメント・ジャパン株式会社,Data Scientist,,japan,"Data Scientist
+データサイエンスを駆使して、 CMを中心としたマーケティングの成果を最大化させるサービス「ADVA」を展開しています。
+
+Your new company
+マクロデータ推計事業、ミクロデータ収集及びミクロデータ推計事業を提供。 テレビCMを中心としたオフライン広告による売上への貢献度・他の広告へのアシスト効果を可視化し、売上を最大化する予算配分案を算出できるオンオフ統合分析ツール「ADVA magellan（アドバ マゼラン）」の開発。 TVCM予算をエリア毎にオンオフ統合分析し最適化可能なプロダクト「ADVA PLANNER」の提供。 データ戦略で成果を最大化する動画クリエイティブ制作サービス「ADVA CREATOR」の展開。 「データ分析を民主化し、マーケティングの適正評価を民主化する」をミッションに掲げる。
+
+
+CMを中心としたマーケティングの成果を最大化させるサービス「ADVA」を展開しています。 プロダクトのコア機能である広告効果を予測する理論や、 アルゴリズムを構築するデータサイエンティストの方を求めています。・クライアントのマーケティング成果を上げるために、広告効果の可視化や最適な予算配分を算出する理論やアルゴリズムを構築する ・ソフトウェアエンジニアと共に仮説を検証するプロトタイプを作成する ・プロダクトへ活用するために消費者行動や最適化などの論文を調査する
+
+
+・確率論・推測統計学・重回帰分析についての基本的な知識 ・PythonまたはRなどを用いたデータ分析・モデル構築経験 ・マーケティング分野での研究開発への興味
+
+
+多様な事業ドメインのマーケティングデータを使って理論の社会実装を行い、 マーケティングをより定量的な視点で適性に評価する世界への貢献ができる ・自身で仮説検証するためのソフトウェアエンジニアリングを学ぶことができる
+
+
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career. #1086974",,,,,,,,,,,,,,,,,,92,,
+AMBL 株式会社,データアナリスト(研修あり)/インターネット/Webサービス・ASP,,japan,"【社内研修2ヶ月】SQL/Python/統計などの独自研修からチャレンジ。エンジニアからデータサイエンティストを目指している方が多くご入社いただいております。これまでの実績から自信を持って研修育成します。
+
+AMBL 株式会社 - 『何を創るかより誰と創るか』顧客のDX推進課題に対し、AIを武器にITソリューションを用いて課題解決。
+
+事業内容
+【AIを武器にDXを推進させるシステム開発会社】
+DXに悩む企業様に寄り添い、システム開発やソリューション提案、人材確保を行っています。
+
+・法人向けソリューション提案
+・Web・モバイルコンテンツ構築および運営管理
+・システム、アプリケーション開発・運用
+・インフラ構築
+・ネットワークの設計・構築
+・製品開発や販売
+・人材派遣
+・教育支援
+・戦略コンサルテーション
+・デジタルマーケティング支援
+・Webサイト制作、Webシステム開発
+・プロダクト&サービス開発
+・マーケティング支援
+・クリエイティブ制作やWeb制作
+・データ活用コンサルティング
+・AI人材研修事業 など
+
+
+「エンジニアからキャリアチェンジ」
+「データサイエンティストを目指して、職種未経験からデータ分析スキルを学ぶ」
+入社後はまず、でSQL、Python、統計をじっくりと学ぶことができます。
+
+※当社の研修＝座学です。
+Linux基礎, SQL, Python, 自然言語解析,Tableau, 統計検定, 機械学習, 深層学習、他
+・一人一人の経験に合った研修をカスタマイズします！・
+講師は、フルスタックエンジニアとして教育向けICT機器・教育システムの研究・開発の実績を持ち、
+複数の研究開発プロジェクトに携わりながら、研修事業の企画開発を兼務しています。
+
+
+PJTではSQLを使ったDBからのデータ抽出、集計等の基礎的な業務や、基礎的なPythonのコーディングから開始して、ゆくゆくは統計分析を行っていただきます。
+
+
+1. 自社サービス
+・機械学習、AIを用いた各種サービス開発
+
+2. データサイエンティスト領域
+①データマイニング：データ抽出・抽出・分析
+②データベース・マーケティング：戦略立案、企画・運営
+③データ可視化：基盤構築、KPI設定、BI化
+
+3. 機械学習エンジニア領域
+①業務改善：業務分析、自動化
+②コーディング業務：各種モデルの検討、開発、チューニング
+
+
+2018年4月にデータアナリストの社内育成プロジェクトを立ち上げ、計画想定以上の成長スピードで拡大しております。
+社内の8割が中途入社のメンバーで、そのほとんどが社内研修を経てデータサイエンティストとして活躍中です！独自のデータ・AI系人材向けの研修制度と資格取得支援制度などを持ち、入社後の成長を後押ししています。
+
+・AIベンチャーの成長過程を一緒に創り上げて頂ける、高い志を持った方にジョイン頂きたいと考えています・
+
+
+・自社AIサービス事業、AI構築・データ分析事業、AI人材教育事業の3つの柱で、飛躍的な成長を続けています。
+国内最大規模のデータを保有する大手通信キャリアをメインクライアントとし、安定基盤を持ちつつも、R&Dなどチャレンジングな取り組みも魅力的。
+
+・育成制度、資格取得支援、キャリアアップ制度が充実しているのも、当社の強み。入社後もスキルアップができる環境を徹底し、社員の成長への投資を惜しみません。
+
+・データサイエンス、AI領域の先端技術のキャッチアップに貪欲です。そんな成長過程の企業で、組織を創り上げる経験が積めます。
+
+・膨大なデータを用いて、世の中の価値を見つけ出し、サービスを改善したり、ユーザー体験に生かしたり、レベルの高い経験が積めます。間近でサービスが生まれ、PDCAを回し、新しいサービス企画に生かす、そんなやりがいを感じられるプロジェクトはそうないと思います。
+
+
+
+本社／東京都品川区大崎一丁目2番2号 アートヴィレッジ大崎セントラルタワー10階
+その他／クライアントプロジェクト先
+
+・転勤なし
+・現在がリモートを推奨しており、社員の9割が在宅勤務を実施しております。
+
+
+各線大崎駅より徒歩3分
+
+
+9:30〜18:30
+
+
+・社会保険完備（関東IT組合健康保険）
+・交通費支給（月5万円まで）
+・確定拠出年金制度
+・副業制度
+・定期健康診断
+・インフルエンザ予防接種
+・フレックス制（コアタイム10～15時）
+・一部リモート勤務制度有
+・ビジネス系研修（トーマツイノベーション Biz CAMPUS）
+・オンライン学習サービス（schoo WEB-campus）
+・資格取得制度（ex:プロジェクトマネージャ試験合格…10万円支給）
+・外部セミナー参加費用補助
+・慶弔見舞金制度
+・結婚祝金制度
+・産休・育休制度（100％復帰）
+・敷地内禁煙（屋外喫煙可能場所あり）
+
+
+・年間休日125日
+・完全週休2日制（土日祝）
+・サマー休暇3日(6月〜10月)
+・年末年始休暇
+・有給休暇（入社3か月後付与）
+・時間年休制度（1時間単位で有給取得が可能）
+・産休育休取得実績（復職率100％）
+・記念日休暇
+・子の看護休暇
+・介護休暇
+・慶弔休暇
+
+・産前産後休暇・ 復職率100％！
+・育児休暇・ 男性の取得実績あり！
+・有給休暇・ 取得率77％！
+
+
+今後市場拡大が予測される「ビッグデータ」「IoT」「人工知能」などの先端技術領域にて、
+実社会・ビジネスで抱えている課題解決と変革のために、新しい価値の提供ができるような存在として、社会貢献を目指します。
+
+
+データ活用がこれからの経営課題に必要とされる中、座学・実習を通じて知識やスキルを身につけられるような研修をご用意しています。
+
+・3つの重要な技術スキルの定着・
+・SQLでのデータ抽出力
+・Pythonによるデータ分析基礎スキル
+・データ回帰や分類の課題に対して、データ解析・モデル構築スキル
+
+
+メンバーのスキル習得の具体的な目標として、AI・データサイエンス系の資格を設定しています。
+研修で学ぶ Pythonの資格はもちろんのこと、統計学やDB、ディープラーニングといった、様々な資格を補助制度の対象としています。
+
+
+・Python3エンジニア認定基礎試験：55名
+・Python3エンジニア認定データ分析試験：33名
+・統計検定2級：23名
+・日本ディープラーニング協会 G検定：13名
+・E資格：5名
+・マーケティング検定2級：3名
+・AWS 認定ソリューションアーキテクト アソシエイト：7名
+2021.7現在
+
+
+データサイエンティスト人材の規模とスキル、100件以上のデータ分析の実績を積み、データサイエンティスト協会に加入できるレベルに達したと判断し、入会いたしました。
+
+aifield Company データソリューション部の社員数77名のうち、データサイエンティスト協会の定義するSenior Data Scientist～Assosiate Data Scientistレベルまで、54名が在籍（2021年5月末時点）し、お客様のKPI/KGI達成のための分析・指導をはじめ予測モデル作成、AIサービスの企画・構築等を行っています。
+また、日々のデータ集計、分析といったお客様のビジネス推進から、分析環境構築（オンプレミス、クラウド）、BI導入による見える化といった支援も行っています。
+
+
+資本金 7,992万円
+設立年月 2001年03月
+従業員数 540人
+
+
+エンジニア・技術職（システム/ネットワーク） > システム開発（制御・組み込み）
+エンジニア・技術職（システム/ネットワーク） > システム開発（Web/オープン系）
+エンジニア・技術職（システム/ネットワーク） > システム開発（モバイル系）
+
+給与&nbsp;350万円〜650万円
+雇用形態&nbsp;正社員",,,,,,,,,,,,,,,,,,92,,
+KLA,"Engr, Apps Dev 3",,japan,"Company Overview
+KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and we invest 15% of sales back into R&D. Our expert teams of physicists, engineers, data scientists and problem-solvers work together with the world’s leading technology providers to accelerate the delivery of tomorrow’s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us.
+With over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next-generation devices to volume production quickly and cost-effectively. Enabling the movement towards advanced chip design, KLA's Global Products Group (GPG), which is responsible for creating all of KLA’s metrology and inspection products, is looking for the best and the brightest research scientist, software engineers, application development engineers, and senior product technology process engineers. The Optical Metrology Division products are used for optical overlay metrology. The portfolio of products includes unique solution packages which are based on hardware and software systems to enhance yield and effectiveness. As a world leader in its field of expertise, the division's products are the most advanced in performance (measurement accuracy of nanometers and below), reliability, ease of use and compatibility with other KLA's products. KLA (Israel) controls over 80% of the world market sales in its field, and its products are used by every major semiconductor manufacturer around the world. KLA Israel is located in the Migdal Haemek Industrial Park.",,,,,,,,,,,,,,,,,,92,,
+Entourage Consulting LLC.,Medical Laboratory Scientist,,japan,"仕事内容:
+MedicalLaboratory Scientist
+Placeof Performance: Yokota AB, Japan
+GeneralDescription:
+Medical Laboratory Scientist shall be responsiblefor supervising and performing clinical laboratory testing in any one or acombination of areas as described in the following sections and programs of thelaboratory: Hematology, coagulation chemistry, urinalysis, serology,microbiology, micro-molecular, shipping, transfusion services/blood bank, andpoint-of-care testing program.
+SpecificTasks:",,,,,,,,,,,,,,,,,,92,,
+type転職エージェント,(CO)デジタルイノベーション推進部 Data Scientist,,japan,"仕事内容:
+・データ分析、アナリティクスに関する高度な専門スキル・知識を活用し、Aflacのビジネスパフォーマンスを向上させる
+Aflac内の様々なデータを活用しビジネス課題を特定、解決に導く
+・Aflacのデータサイエンスのケイパビリティを底上げさせる
+
+募集条件:
+事業会社やインターネット企業のアナリティクスに関する部門、コンサルティング会社におけるデジタル部門において、ビッグデータを用いたビジネス課題解決における分析や施策立案の経験
+
+データを活用したビジネス課題の整理/解決のスキル
+データサイエンスに関する体系的知識(統計学・機械学習・AIなど)
+R、Python、SAS、SPSSなどで、データの加工から集計・分析まで実行できるスキル
+高度な専門知識を関係者に分かりやすく伝えることのできるコミュニケーションスキル
+
+
+契約社員
+
+東京都
+
+
+「都庁前駅」A1のB2出口より徒歩1分
+
+
+デジタルマーケティング
+
+type転職エージェント　※人材紹介サービス『type転職エージェント』を通じて、ご応募いただく求人です。 ※本求人へのご応募は、『type転職エージェント』の無料転職サポートサービスへのお申し込みであり、募集企業様への直接応募とはなりませんのでご了承下さい。",,,,,,,,,,,,,,,,,,92,,
+AnyKan株式会社,Data scientist,,japan,"[オープン・WEB系] データ分析エンジニア
+残業なし
+土日祝休み
+即日
+長期
+Python３年以上
+求人概要
+お仕事内容
+お仕事詳細",,,,,,,,,,,,,,,,,,92,,
+日産自動車株式会社,ML/クラウド　エンジニア / ML and Cloud Engineering,,japan,"【技術系】 グローバル情報システム ML/クラウド エンジニア / ML and Cloud Engineering
+職務内容
+＜職務内容＞
+このポジションは、IS/IT MTP- Nissan Digital Next の一部であるData関連のイニシエーションをリードすることが期待されています。 最先端のAI、ML、クラウドの手法を様々なソース（社内外）からの大量のデータに適用し、これらのイニシアチブを設計、構築、運用することで、会社のMTPに直接貢献することを目指します。
+
+＜Main Tasks＞
+This position is expected to lead Data related initaitives which are part of IS/IT MTP- Nissan Digital Next. By applying state-of-the-art AI, ML and Cloud methods to large amounts of data from a variety of sources (internal and external) to design, build, and operationalize these initiatives in order to contribute directly towards the MTP of the company.
+
+＜アピールポイント（職務の魅力）＞
+世界中の企業でMLやクラウドのエンジニア、データサイエンティストが重要視されている一方で、自動車業界は以前にも増して新規参入者が増え、急速に変化しています。伝統ある企業でも、日産はCASEで市場をリードし続けていることを誇りに思っています。 この役割は、このような状況の中で、学術的な理論を実際のビジネスケースに適用し、データ分析に基づく具体的な成果を提供することです。
+
+＜Selling point of this position＞
+While ML and Cloud engineer and Data Scientist are becoming more and more critical for enterprises all over the world, the automobile industry is transforming rapidly with more new players entering the market than ever before. Even as a traditional company, Nissan prides itself on continuing to lead the market in CASE. This role will work directly within this context, applying academic theories into real-world business cases to provide a tangible outcome based on Data Analytics.",,,,,,,,,,,,,,,,,,92,,
+ネイチャーインサイト株式会社,データサイエンティスト・エンジニアリング,,japan,"ネイチャーインサイト株式会社
+
+【育成前提】ビックデータを扱うSASエンジニア~平均残業20H以下/直接取引メイン/60名程度の組織
+
+【仕事内容】
+【育成前提】ビックデータを扱うSASエンジニア~平均残業20H以下/直接取引メイン/60名程度の組織
+
+【具体的な仕事内容】
+~ビックデータの活用・分析を行うSASエンジニア/データ活用のスペシャリストへ/育成制度充実/残業時間20時間以下~
+
+概要:
+同社は、1995年に「SASコンサルティングパートナー」に認定される等、SASのエキスパート集団として進化しています。当社のサービスは、メガバンク、通信キャリア、製薬会社、不動産等幅広い大手のお客様に大きな信頼を集めています。今回、需要の増加にも伴い、4年後には社員数を倍に組織を強化していきたいと思っており、データ活用で一緒にお客様の経営課題や社会課題を解決へ導く仲間を募集します。
+
+SAS製品の提案・導入・構築・運用またはSAS製品を用いた顧客データの分析業務をご経験に応じてお任せします。早期にリーダーとしてメンバーを率いて頂くことを期待しています。同社のSAS案件は以下の2種類があり、これまでのご経験を活かしアサインを予定しています。
+システム構築の提案から構築、設計、プログラミング
+クライアント業界の業務知識を元にSASを用いてクライアントの業務、戦略課題のコンサルティング、また実行までの業務支援
+
+ビジネスソリューション部は約60名程度(平均年齢30歳前後)、約8割が中途社員です。メンバーのバックグラインドは様々でお互いの個性を尊重し合いながら、アットホームな雰囲気で働いています。
+
+同社は、SAS教育制度があり、最短3か月で着実に力をつけれる環境があります。専任の講師による研修やテキストやカリキュラムは10年以上にわたって練り上げられたオリジナルです。
+中途で入社したエンジニアから経営層を目指すキャリアも築くことが可能であり、本人次第でチャンスは広がる職場です。
+
+・2020年にはSAS Institute Japan株式会社が主催する「SAS パートナー総会」で「Best Data Scientist Award」を受賞等の実績あり
+・大学で非常勤講師を務めていたり、データサイエンティスト協会の委員会に所属している等、データ分析の世界で活躍するデータサイエンティスト多数在籍
+
+【対象となる方】
+学歴不問
+
+【対象となる方(詳細)】
+<応募資格/応募条件>
+・何かしらの言語で開発実務経験を2年以上お持ちの方
+・SASエンジニアに興味のある方
+
+・学生時代などにデータの分析経験・研究経験をお持ちの方
+・プロジェクトマネージャー/リーダーのご経験がある方
+
+【勤務地】
+<勤務地詳細>
+住所:東京都千代田区神田小川町3-3 HF神田小川町ビルディング5F
+都営新宿・三田/半蔵門線/神保町駅
+屋内全面禁煙
+
+<転勤>
+無
+
+【勤務時間】
+<労働時間区分>
+フレックスタイム制
+10:00~16:30
+60分
+有
+
+<標準的な勤務時間帯>
+9:00~17:30
+
+<その他就業時間補足>
+30分単位でのフレックスです。/客先の就業時間に順ずる場合があります。
+
+【雇用形態】
+正社員
+
+<雇用形態補足>
+無
+
+<試用期間>
+6ヶ月
+
+【給与】
+<予定年収>
+400万円~750万円
+
+<賃金形態>
+月給制
+
+<賃金内訳>
+180,000円~367,500円
+10,000円
+
+<月給>
+250,000円~500,000円(一律手当を含む)
+
+<昇給有無>
+有
+
+<残業手当>
+有
+
+<給与補足>
+見なし残業40時間込み。見なし残業時間超過分は別途支給。
+・昇給 年1回(4月)
+・賞与 年2回(6月/12月)
+
+記載金額は選考を通じて上下する可能性があります。
+月給(月額)は固定手当を含みます。
+
+【待遇・福利厚生　各種制度】
+通勤手当、家族手当、住宅手当、健康保険、厚生年金保険、雇用保険、労災保険、退職金制度
+
+<各手当・制度補足>
+上限50,000円
+配偶者10,000円/月、子7,500円/月
+一律10,000円
+補足事項なし
+補足事項なし
+
+<教育制度・資格補助補足>
+SAS研修(SAS公認のトレーナー経験がある外部講師による研修、自社オリジナル研修)
+
+<その他補足>
+・各種手当(住宅、家族、役職等)
+・確定拠出年金
+・各種資格取得による報奨金(当社規定による)
+
+【休日・休暇 その他】
+完全週休2日制(休日は土日祝日)
+年間有給休暇10日~20日(下限日数は、入社半年経過後の付与日数となります)
+年間休日日数123日
+
+特記事項無し
+
+【事業概要】
+ネイチャーインサイトでは、SASシステムを利用した多彩な業務分野でのシステムの提案・設計・開発・運用・保守まで、総合的なサポートを行っています。それにより、お客様それぞれに合った最適なトータルソリューションサービスの提供を実現します。
+(1)システム開発
+(2)システム運用
+(3)オンサイトサポート
+
+【郵便番号】
+1010052
+
+【所在地】
+東京都千代田区神田小川町3-3 HF神田小川町ビルディング5F
+
+【設立年 補足】
+1994年1月
+
+【従業員数】
+96名
+
+【上場市場名】
+非上場
+
+【資本金】
+10百万円
+
+【平均年齢】
+33歳
+
+【企業URL】
+http://www.n-insight.co.jp/",,,,,,,,,,,,,,,,,,92,,
+ネクスト・ムーブ　株式会社,IT、通信 > ITアナリスト,,japan,"求人ID : 1212242 更新日 : 2022年09月30日
+Data Science, Senior Data Scientist
+(HOT) Data Scientist. From Senior to Manager positions OPEN!
+勤務地
+東京都 23区
+
+雇用形態
+正社員
+
+給与
+経験考慮の上、応相談",,,,,,,,,,,,,,,,,,92,,
+Takeda Pharmaceutical,"Senior Director, Head of Hikari Plant Supply Chain /シニアダイレクター光工場サプライチェーンヘッド",,japan,"By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.
+Job Description
+OBJECTIVES/PURPOSE
+Division head manages strategy and culture.
+Responsible for the supply security of Hikari products to patients through efficient supply/production planning
+Hikari, Japan
+Employee
+Regular
+Full time",,,,,,,,,,,,,,,,,,92,,
+Capgemini Japan,PLM Technical Lead (Aras),,japan,"Duties and Responsibilities
+
+We are looking for a consultant to work on a project with a major manufacturing client involving Aras, an important PLM (Product Lifecycle Management) solution that supports the backbone of the manufacturing industry. In addition to various engineering tasks such as design, implementation, implementation, verification, and failure response, you will also be responsible for actual add-on development work. You will be able to gain experience in a global work environment, collaborating with many overseas staff.
+(Examples of major tasks)
+Aras basic configuration, system design, implementation work, verification and troubleshooting during implementation
+Aras implementation, configuration, integration with existing IT environments such as ERP, CAD, CAE, etc., and data migration",,,,,,,,,,,,,,,,,,92,,
+Bristol Myers Squibb,"Senior Manager, Japan Clinical Trial Physician",,japan,"At Bristol Myers Squibb, we are inspired by a single vision – transforming patients’ lives through science. In oncology, hematology, immunology and cardiovascular disease – and one of the most diverse and promising pipelines in the industry – each of our passionate colleagues contribute to innovations that drive meaningful change. We bring a human touch to every treatment we pioneer. Join us and make a difference.
+Job Title
+Senior Manager, Japan Clinical Trial Physician (CTP)
+Division
+R&D / Global Drug Development / Japan Clinical Development
+Functional Area Description",,,,,,,,,,,,,,,,,,92,,
+ジョンソンコントロールズ株式会社,営業、営業企画 > 営業一般,,japan,"求人ID : 1302271 更新日 : 2022年10月13日
+ビルのDXでスマートビル・スマートシティを実現します
+デジタルソリューションのセールスリーダー 【東京】
+採用企業
+ジョンソンコントロールズ株式会社
+
+勤務地
+東京都 23区, 渋谷区
+
+雇用形態
+正社員",,,,,,,,,,,,,,,,,,92,,
+株式会社Globee,マーケティング、PR、広告 > 市場調査、分析,,japan,"求人ID : 1252104 更新日 : 2022年10月12日
+学習データをもとに最適な問題をレコメンドする""abceed AI""開発業務
+Data Scientist/データサイエンティスト【AI 英語教材""abceeed""】 -リモート手当有り-
+採用企業
+株式会社Globee
+
+勤務地
+東京都 23区, 港区
+
+雇用形態
+
+
+リモートワーク・在宅勤務 服装カジュアル 副業OK 残業少なめ フレックスタイム制",,,,,,,,,,,,,,,,,,92,,
+エンワールド・ジャパン株式会社,データサイエンティスト - 機械メーカー,,japan,"データサイエンティスト - 機械メーカー
+勤務地
+千葉市
+
+雇用形態
+正社員
+
+給与
+¥8,000,000 - ¥10,000,000 （年収）
+
+専門
+テクノロジー・デジタル・通信,",,,,,,,,,,,,,,,,,,92,,
+株式会社 ZENKIGEN,データエンジニア/インターネット/Webサービス・ASP,,japan,"150万以上の動画データのデータプラットフォームを構築するデータエンジニア
+
+株式会社 ZENKIGEN - 企業のDX推進を支援！「人の持つ能力の全てを発揮する社会の実現」を目指すAI×SaaS企業
+
+事業内容
+・採用DXサービス「harutaka（ハルタカ）」の企画・提供
+・AIエンジン「ZIGAN（ジガン）」の企画・開発
+・「ZENKIGEN Lab（ゼンキゲンラボ）」の運営
+・人事コミュニティ「ZINZIEN（ジンジエン）」の運営
+
+仕事内容
+【具体的な仕事内容】
+会社の将来的なデータの有効活用し、既存サービス、新規サービスへと活かし、事業成長へ繋げていくためのデータ基盤の設計、構築を行います。
+具体的には、採用DXサービス、1on1によるコミュニケーション改善AIサービスなどにおける動画データのアクセシビリティを高め、分析、報告を高速で行える基盤の設計を行っていただきます。
+
+
+データ基盤構築の新規プロジェクトになります。
+PO（Product Owner）、PdM（Product Manager）、データ基盤を利用するData Scientistとコミュニケーションを取りながら、チーム全体で設計、開発を行います。
+主なクラウド環境はGCP、 開発言語はGo、 Python、 Ruby on Railsです。フルリモートでの勤務が可能になります。
+
+・利用するツール
+・BigQuery
+・DataFlow
+・ほか、GCPにおけるデータに関するサービス
+
+・サービス開発環境
+・Ruby on Rails
+・Go
+・Python
+・React.js
+・WebRTC
+・GCP
+・AWS
+
+
+・会社の課題について全員でディスカッションする場もあるオープンなカルチャーです。
+・自律分散型で全員がリーダーシップを発揮している組織なので、スピード感があります。
+・大手企業や研究機関との共同研究を行い、先端のテクノロジーを取り入れるなど、スタートアップだからこそ出来るチャレンジをしています。
+
+
+弊社で展開する複数サービスに蓄積するデータを横断的に活用するためのデータ基盤を開発・運用をリードする一人目のエンジニアを募集します。
+
+
+
+「テクノロジーを通じて人と企業が全機現できる社会の創出に貢献する」というVisionのもと、人事領域（採用や職場の人間関係）の問題の可視化と改善を提案する、日本初のコミュニケーション解析AIの開発を行っております。
+※全機現とは、人が持つ能力の全てが発揮されている状態のこと
+
+採用を科学するDX サービス「harutaka」の運営を通して得られた動画や音声データを活用した、コミュニケーション解析AIエンジン「ZIGAN」など様々なサービスを自社開発・運用。
+1分間の動画はWebにおける3,600ページ相当の情報量に匹敵すると言われており、人物本位の精緻な選考も可能にしました。
+
+社内R&D組織「ZENKIGEN Lab」において、アフェクティブコンピューティングの分野を中心に東京大学や社外の有識者の方々との共同研究やコラボレーションを推進し、未来に向けた様々なチャレンジをしながらサービスの企画開発していることも特徴です。
+
+
+「人間関係をテクノロジーの力で良化する」という難題に挑むため、研究者やエンジニアなど職種の垣根を超え、日々、様々な技術や研究の調査や実証実験を行っております。
+技術者に与えられた裁量も大きく、技術者からの提案をきっかけに月に５件以上は新しい技術の導入がされています。
+家族サービスやプライベートを充実させた社員が多く、フルフレックス、フルリモート制度を活用した育児のための時間調整や、急な休みなどが暖かく受け入れられたり、定期的に１週間以上のまとまった休み（福利厚生/ZENKIGEN休暇）を取ることが推奨されております。
+定期開催されるファミリーデーでは社員の半数以上が家族や自身のパートナー、友人を連れてくるなど、非常にアットホームな職場です。
+
+
+
+
+〒100-0004 東京都千代田区大手町1-6-1 大手町ビル6階 643区
+※大手町駅直結徒歩1分
+
+
+〒253-0055 神奈川県茅ケ崎市中海岸四丁目12986番地52 サザンビーチヒルズ4階11-a
+※茅ヶ崎駅徒歩10分
+
+
+大手町駅直結 徒歩1分
+
+
+・フルフレックスタイム導入（コアタイムなし）
+・フルリモート勤務可
+・サテライトオフィス勤務可
+・フリーアドレス
+・交通費支給
+・各種社会保険完備
+・持株会制度
+・親孝行制度
+・書籍購入補助
+・カンファレンス参加補助
+・ヘルシーランチ制度
+・メンター制度
+・コミュニケーション活性化制度
+・ファミリーデイ
+・社員旅行
+など
+
+
+・休暇：土日祝日、有給休暇、年末年始休暇、育児休暇、介護休暇、慶弔休暇、ZENKIGEN休暇（有給と別に年5日連続取得できる休暇）
+
+・有給：入社半年後より支給日数：10日
+※有給発生前の休暇についても3日ほど特別休暇を完備
+
+
+
+“テクノロジーを通じて、人と企業が全機現できる社会の創出に貢献する”というビジョンを掲げている、株式会社ZENKIGEN。
+“全機現”とは、「人の持つ能力の全てを発揮する」という意味の禅の言葉。多くの人が“全機現”する社会づくりのために、最先端テクノロジーを活用したプロダクトやサービスを通じて貢献することを目指している。
+
+そんな同社は、人の生活時間において最多の時間を占める“働く”に着目。まずは仕事における“全機現”から着手し、採用DXサービス『harutaka』及びAIエンジン『ZIGAN』を開発、リリース。
+
+労働人口が減少の一途を辿り、採用難が構造的な問題となっている日本社会。採用実務を担う担当者も、調整、面接、評価、フォロー等で多忙を極めている。
+新卒学生の就職は、1人の学生は平均29社にプレエントリーし、10社の面接を受け、2社から内定を取得するという構造。採用担当者は、1,000名の応募者のうち900名を落とすという作業に膨大な時間や手間を費やしていることになる。一方、学生にしてみれば、こうした就活の負担が大きく、学業やアルバイト等の時間が削られている。双方に大きな“負”が生じているのだ。
+
+『harutaka』は、「録画選考」と「ライブ面接」の2つの機能を持つ。「録画選考」は、従来の書類選考を置き換えるもの。応募者は質問への回答を録画して応募する。「ライブ面接」は、テレビ電話機能的に相互会話の面接に活用できる。これらによって、従来2週間以上を要していたエントリーから面接までのプロセスを数日以内に短縮でき、歩留まりや内定辞退を改善する。しかも場所を超越するため、一次面接の会場まで赴く必要もなく、面接時間も大幅に圧縮でき、無駄な時間やコストをカットできる。かつ、1分間の動画はWebにおける3,600ページに該当するという情報量に匹敵し、人物本位のより精緻な選考が可能となる。
+
+「人の印象は、言葉以外の表情や仕草という“非言語コミュニケーション”で93%が決まるという『メラビアンの法則』があります。採用基準として“カルチャーフィット”を最重視する企業は多く、そのベストマッチに動画やライブ映像は極めて有効であり、結果的に“全機現”できる人を増やすことに繋がります」と、同社の広報PRを担当する清水邑氏は話す。
+
+また、社会の大きな変化により、企業の面接のオンライン化、職場のオンライン化はもはや当たり前の時代へ突入していく中で、よりよい採用活動や、リモート勤務における職場の人間関係向上の実現の為に活用いただけるプロダクト展開を推進中。
+
+現在まで、大手企業をメインに、新卒／中途／アルバイト等の採用で約450社以上が導入。前年の画一的な採用基準では不採用だった人材が、『harutaka』を活用した選考に切り替えたことで、内定承諾者の1/3を占めるといった興味深い事例もある。
+
+AIエンジン『ZIGAN』は、既に蓄積された数百万件の面接データを解析することで、各企業の面接の質の向上を実現。東京大学教授、慶應義塾大学教授らとR&D組織『ZENKIGEN Lab』における共同研究や、同社の優秀なデータサイエンティストによるデータ分析をもとに、プロダクトへの実装を推進している。
+昨今では企業の採用のシーンのみならず、教育の場においても多く大学の入試のシーンにて活用していただくなど、価値提供の場が増えている。さらに広い分野において活用してもらえるようなプロダクト・サービスに急成長中である。
+
+
+資本金 100,000,000円（2021年3月31日時点）
+設立年月 2017年10月
+従業員数 72人
+
+
+エンジニア・技術職（システム/ネットワーク） > ネットワーク/サーバ設計・構築
+エンジニア・技術職（システム/ネットワーク） > データサイエンティスト
+エンジニア・技術職（システム/ネットワーク） > その他システム関連
+
+給与&nbsp;500万円〜900万円
+雇用形態&nbsp;正社員",,,,,,,,,,,,,,,,,,92,,
+Tapestry Japan,Business Analyst Assistant (Contractor),,japan,"ジョブID
+4495
+勤務地
+Roppongi, Minato-ku
+職種
+フルタイム(契約)
+給与形態",,,,,,,,,,,,,,,,,,92,,
+ネクスト・ムーブ　株式会社,IT、通信 > データベース開発/管理,,japan,"求人ID : 1122430 更新日 : 2022年10月09日
+データサイエンティスト・DATA SCIENTIST (Urgent Role!!!)
+採用企業
+Top-Notch Global Consulting Firm
+
+勤務地
+東京都 23区
+
+雇用形態
+正社員
+
+給与",,,,,,,,,,,,,,,,,,92,,
+Takeda Pharmaceutical,"Data Scientist, Associate Director or Manager",,japan,"By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.
+Job Description
+タケダの紹介
+タケダでは常に患者さんを中心に考え、世界中の人々により健やかで輝かしい未来をお届けすることを目指してきました。そして従業員一人ひとりにそれぞれの能力と熱意に応じた成長の機会を提供することにも組んで取り組んでいます。私たちと一緒に、世界中の人々のいのちに貢献し、さらなる成長と活躍を目指しませんか。
+Osaka (Juso), Japan
+Hikari, Japan, Tokyo, Japan
+Employee
+Regular
+Full time",,,,,,,,,,,,,,,,,,92,,
+野村證券株式会社,DX/Agile開発リード(債券業務向サービス)/ DX/Agile Development Lead for Fixed Income**,,japan,"Job Description
+Job / Group Overview:
+私たちは業界のリーディングカンパニーとして国内の金融機関の中で圧倒的なグローバルプレゼンスを持つ野村グループで、ビジネスをテクノロジーの力で変革するエンジニアチームです。最先端のテクノロジーを駆使しながら、Made in Japanの品質でスピード感のあるアジャイル開発を行っており、ビジネスと一体となったDXの推進に貢献することが期待されています。エンジニアは、担当や役割を固定することなく様々な内製開発やプロジェクトに携わっています。チーム内のコミュニケーションは主に日本語ですが、多国籍なメンバーで構成されており、英語を使う場面もあります。
+
+We are the engineering team in Nomura Group, a leading company in the industry having a strong global presence among Japanese financial institutions. Our mission is to contribute to the promotion of DX in cooperation with Business users, with agile development of ""Made in Japan"" quality utilizing the latest technology. Engineers are flexibly involved with a wide variety of in-house development and projects. Communication within the team is in Japanese and sometimes in English as it is made up of multinational members.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+登録資格
+Requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+勤務地
+Location 大手町",,,,,,,,,,,,,,,,,,92,,
+Bristol Myers Squibb,"Senior Manager, Japan Clinical Trial Physician",,japan,"At Bristol Myers Squibb, we are inspired by a single vision – transforming patients’ lives through science. In oncology, hematology, immunology and cardiovascular disease – and one of the most diverse and promising pipelines in the industry – each of our passionate colleagues contribute to innovations that drive meaningful change. We bring a human touch to every treatment we pioneer. Join us and make a difference.
+Job Title
+Senior Manager, Japan Clinical Trial Physician (CTP)
+Division
+R&D / Global Drug Development / Japan Clinical Development
+Functional Area Description",,,,,,,,,,,,,,,,,,92,,
+日産自動車株式会社,ML/クラウド　エンジニア / ML and Cloud Engineering,,japan,"【技術系】 グローバル情報システム ML/クラウド エンジニア / ML and Cloud Engineering
+職務内容
+＜職務内容＞
+このポジションは、IS/IT MTP- Nissan Digital Next の一部であるData関連のイニシエーションをリードすることが期待されています。 最先端のAI、ML、クラウドの手法を様々なソース（社内外）からの大量のデータに適用し、これらのイニシアチブを設計、構築、運用することで、会社のMTPに直接貢献することを目指します。
+
+＜Main Tasks＞
+This position is expected to lead Data related initaitives which are part of IS/IT MTP- Nissan Digital Next. By applying state-of-the-art AI, ML and Cloud methods to large amounts of data from a variety of sources (internal and external) to design, build, and operationalize these initiatives in order to contribute directly towards the MTP of the company.
+
+＜アピールポイント（職務の魅力）＞
+世界中の企業でMLやクラウドのエンジニア、データサイエンティストが重要視されている一方で、自動車業界は以前にも増して新規参入者が増え、急速に変化しています。伝統ある企業でも、日産はCASEで市場をリードし続けていることを誇りに思っています。 この役割は、このような状況の中で、学術的な理論を実際のビジネスケースに適用し、データ分析に基づく具体的な成果を提供することです。
+
+＜Selling point of this position＞
+While ML and Cloud engineer and Data Scientist are becoming more and more critical for enterprises all over the world, the automobile industry is transforming rapidly with more new players entering the market than ever before. Even as a traditional company, Nissan prides itself on continuing to lead the market in CASE. This role will work directly within this context, applying academic theories into real-world business cases to provide a tangible outcome based on Data Analytics.",,,,,,,,,,,,,,,,,,92,,
+Capgemini Japan,PLM Project Manager (Any PLM experience is okay),,japan,"Duties and Responsibilities:
+We are looking for a consultant to work on a project with a major manufacturing client involving Aras, an important PLM (Product Lifecycle Management) solution that supports the backbone of the manufacturing industry. In addition to various engineering tasks such as design, implementation, implementation, verification, and failure response, you will also be responsible for actual add-on development work. You will be able to gain experience in a global work environment, collaborating with many overseas staff.
+
+(Examples of major tasks)
+Aras basic configuration, system design, implementation work, verification and troubleshooting during implementation",,,,,,,,,,,,,,,,,,92,,
+Beatrust株式会社,【リモート可】データサイエンティスト※日常会話レベルの英語力必須※,,japan,"【年収】:
+600〜1,000万円
+
+【仕事内容】:
+現状、同社では、データベースやログ基盤に集積されたデータをBigQueryへ集約し、DWH、データマートなどを構築していますが、その仕組みを専任でみている人間がいないため、必要に応じて最小限の対応をしているのが実情です。そのため、データの品質管理や活用性などの面で、最大限にデータのポテンシャルを発揮できているとは言えません。また、人と人との繋がりの情報や、機械学習に由来する特徴ベクターのような非定形のデータも数多く存在するため、それらを活用しやすい形に適切に整理し活用可能にするデータ基盤の構築が急務となっています。
+Analytics Engineerの方にはBeatrust内外から集積されたそのようなデータを整理し活用可能にするスケーラブルな基盤を構築・運用していただきたいです。
+
+【具体的には】
+・同社のサービス内外から集積されたデータを格納するデータ基盤の構築・運用
+・DWHやデータマートの構築・運用
+・Reverse ETLなどのデータ活用のための仕組みの構築・運用
+・データの品質担保を行うための仕組みの構築・運用
+・分析レポーティング基盤の選定・構築
+・ブログや登壇などを通じた外部への技術発信活動
+
+
+・Analytics Engineer やそれに類する職務(Data Engineer、Data Scientistなど)での3年以上の実務経験
+・データ分析に関する知識や経験
+・MySQL / PostgreSQL / BigQuery などの DB の取り扱い経験
+・GCP / AWS / Azure などのクラウド環境に関する知識や経験
+・ソフトウェア開発のベストプラクティスに関する知見
+・技術の向上・共有に対する熱意
+・Pythonでのコーディングスキル
+・英語(Beatrust 内での英語圏メンバーとのコミュニケーション)
+
+
+正社員
+
+
+健康保険　厚生年金　雇用保険　労災保険
+
+
+通勤手当
+
+
+年間 20 日間(入社月に伴い変動)
+
+
+184234
+
+
+Beatrust株式会社
+
+
+インターネット
+
+
+300万円
+
+
+東京都千代田区
+
+
+13名
+
+
+2020年3月
+
+
+【誰もが最高の自分を実現する世界をつくる】
+同社はB向けのクラウドソフトウェアサービスを開発しており、企業内における従業員のプロファイルやスキル・経験などを可視化する「Beatrust People」という社員検索の優れたデータプラットフォームと、何か新しいことを始めようとした時や不明な点がある際に、適した人材から回答を得ることができるネットワーク「Beatrust Ask」を提供しております。
+
+基本的な所属チームや役職、組織体制の他、どんな業務内容なのか、どのようなスキルや経験を持っているのか、前職ではどんなことをしていたのか、趣味や興味のあることなど、従業員の持っている様々な情報を可視化し、誰でも必要なスキル・経験を持った同僚を簡単に検索して見つけられるようにすることで、整理された情報から生まれるコラボレーションの促進を目指しています。
+
+特に従業員数の多いサイロ化された組織では誰が、どこで、どんな業務をやっているかを把握するだけでも困難なことが多くあります。同社ではこうした問題を解決することで、企業内の血流を改善し、自律的なコミュニケーションが生まれるサポートをしています。
+
+
+【人材情報を可視化して協業・共創を活性化する、多様化したチームのための新しいプラットフォーム】
+これまで会社で保有してきた人材情報をプロフィール画面に一元化・可視化し、実際に業務に活用できるようにします。プロフィール画面を通じてお互いの業務内容や強みを知ることで、まだ一緒に働いたことのないメンバー間での協業を促進します。
+
+ひとりひとりが、多様な特技やスキル経験、趣味、背景を持っていることをシンプルに見える化するのに、タグは便利な方法です。同社では、一人ひとりが多種多様なタグをプロフィールに追加・評価し合うことで、人となりを共有したり、あるいはお互いを称賛し合うことができます。
+
+同社の自動抽出エンジンが、日々のコミュニケーションデータや社内の既存情報から人びとが持つスキルや特性を自動的に推測・抽出します。その結果をプロフィール画面に反映させることで、常にアップデートされた個人の人物を表す情報を簡単に共有できるようにします。
+
+同社は、すぐにニーズに合致するメンバーを見つけ出せるように、シンプルで使いやすい検索機能を提供しています。
+多様なタグを含んだリッチなプロフィール情報と、強力な検索機能を駆使することで、チームメンバーがこれまでの枠組みを超えて見つけ合い、協業に結びつくことを後押しします。",,,,,,,,,,,,,,,,,,92,,
+【研修有】データアナリスト/Data Analyticsエンジニア,研修有データアナリスト/Data Analyticsエンジニア,,japan,"【概要・業務内容】
+2018年4月に大手通信企業のデータ分析、AI構築を中心に事業を開始。
+その後、画像解析をはじめとする自社AIプロダクトも続々リリースし、様々な業種のお客様からAI開発の依頼をいただくまでに成長しました。
+
+実務経験のない方は、入社後2ヶ月程をかけ、
+・SQLでのデータ抽出力
+・Pythonの基礎知識、データ分析基礎スキル
+を習得し、データ分析・AI開発のプロフェッショナルへの第一歩を踏み出します。
+
+<研修内容> ※当社の研修=座学です。
+2ヶ月程の研修後、スキルに応じた業務からスタート。
+その後、成長に応じてデータ分析や仮説検証、改善提案などをおこないます。
+
+・SQLを使ったDBからのデータ抽出・集計
+・基礎的なPythonのコーディング
+・データサイエンス(統計)
+・機械学習の基礎
+
+<業務内容>
+・データのクレンジング
+・データ分析
+・レポート作成(BIツール含む)
+課題に対し、ビッグデータの抽出・活用をしながら、
+データ分析や施策立案~提案までおこないます。
+
+<仕事の流れ(データ分析)>
+顧客の課題をヒアリングし、分析手法を設計。
+↓
+大規模DBからSQLを使い、ビッグデータ抽出・集計。
+↓
+SASやPythonでデータ分析。
+↓
+分析結果・課題解決提案をまとめたレポート作成。
+↓
+顧客に結果を報告し
+広告キャンペーンに活かす企画やサービス改善など提案、コンサルティング。
+
+<PJT例>
+・ビッグデータ分析プロジェクト
+・大手キャリアでのデータ分析
+購買・顧客行動などのデータに基づくマーケティング戦略の策定・実行(デジタルマーケティング領域)
+購買データ、Webサイト行動データ、アプリ利用データ等、マーケティングデータの分析結果をもとに、マーケティング上の戦略策定や施策最適化を支援します。 など
+
+【募集背景】
+企業拡大に伴う、増員募集のため。
+
+【配属部署】
+データサイエンス事業部
+
+【概要】
+Shift the Direction
+~改善から革新へ~
+
+AMBLは4つの成長領域(AI/人工知能、クラウドネイティブ/システム開発、UXデザイン、マーケティング)からお客さまのDX推進を支援しております。
+各領域単独での支援も、それぞれの領域をかけあわせた支援の実績もあり、様々なニーズにお答えするケーパビリティを持っています。
+また、各サービスと併せて弊社が持つテクノロジーを組み合わせて、企業特有の問題や前例のないDX課題にも柔軟に対応します。
+
+【この仕事で得られるもの】
+膨大なデータを用いて、世の中の価値を見つけ出し、サービスがどんどん生まれる企業の案件を担当して頂きます。求められるレベルは高いかもしれません。間近でサービスが生まれ、PDCAを回し、新しいサービス企画に生かす、そんな現場は中々世の中にないと思います。
+
+当社の案件のほとんどが、お客様から直接依頼を受けているものなので、「言われた通りに仕事をする」ではなく、「自ら提案を行っていく」がスタンダードです。自分のアイディアが源泉となり、お客様の心を動かし、チーム一丸となって共に創り上げる、【モノづくりの醍醐味】が味わえます。
+
+お客様は日本トップクラスの大規模企業ばかりなので、企画・開発プロジェクトも丁寧(かつ迅速)に進行します。「きめ細かい」シゴトを行うという、ビジネスマンにとって大切な基礎能力が【最高レベル】で身に付けられます。
+
+【必須スキル・経験】
+下記のいずれかの経験がある方
+・顧客企業への提案資料作成・提案
+・各種マーケティング業務
+・データ抽出・加工業務(SQL, Hadoop, Redshift他)
+・R、Python、SPSS Modeler、Tableau、SASの使用
+・何らかのプログラミング、機械学習の経験
+・各種AIスクール卒業
+
+※本職種は1年以上の就業経験ある方を前提としております。
+(AI、データに関わらない業務で構いません)
+
+【歓迎スキル・経験】
+・SQL、Big Query、Red Shift等を使ったDBからのデータ抽出経験
+・SPSS、SAS、R、Python等データ分析・レポーティング経験
+・SQL, Python, R言語での開発経験
+・マーケティングリサーチ、市場調査などの業務経験
+・power BIやtableauダッシュボードを使ったダッシュボード構築経験
+・統計や機械学習関する知識
+
+【求める人物像】
+・データ抽出などを経験し、分析にシフトしたい方
+・将来はデータサイエンティストを目指したい方
+・開発エンジニアを生かし、サイエンティストへキャリアチェンジしたい方
+
+【想定給与】
+月給
+
+年収:380万円~500万円(月収:26万3千800円~)
+うち固定残業代 2万609円/10h~
+※超過分は別途支給
+※スキルに応じ、決定します
+
+【想定給与②】
+基本給÷160(所定労働時間)×1.25×固定時間
+超えた時間(分)×1.25
+
+賞与/6・12月
+給与改定/年2回
+テレワーク
+通信手当
+
+【年収例】
+年収500万円/メンバー 月給35万円(経験4年)
+年収700万円/マネージャー 月給48万円(経験10年)
+
+【選考プロセス】
+まずはお気軽にご応募下さい。
+↓
+※面接はオンラインで実施します。
+部長/課長
+本部長
+↓
+応募から採用内定まで、最短2週間を予定しております。
+入社後のGAPを防ぐため、育成担当やPJTメンバーとの事前顔合わせや、
+また条件の通知や会社の制度を詳しくお伝えさせていただく場として、
+オファー面談を実施予定です。
+
+【定員】
+5 名
+
+【勤務地】
+品川区大崎一丁目2番2号 アートヴィレッジ大崎セントラルタワー10階(本社) またはクライアント先(東京都内)/在宅勤務
+
+【勤務時間】
+フルフレックス制
+
+8h(うち1h休憩)/月160h程度
+※例)①9:00-18:00②10:00-19:00
+
+有
+
+【待遇・福利厚生】
+正社員(期間の定め無し)
+3ヵ月
+※試用期間中、条件面・待遇面に相違なし
+
+【休日・休暇】
+産前産後休暇 　復職率100%!
+育児休暇 　男性の取得実績あり!
+有給休暇 　取得率77%!
+
+【募集拠点】
+データサイエンス事業部
+東京都品川区大崎一丁目2番2号 アートヴィレッジ大崎セントラルタワー10階
+
+【自由項目①】
+<基礎から実践をしっかり学べる社内研修>
+データ活用がこれからの経営課題に必要とされる中、座学・実習を通じて知識やスキルを身につけられるような研修を用紙しています。
+
+<社内研修内容>
+・SQLでのデータ抽出力
+・Pythonによるデータ分析基礎スキル
+・統計の基礎知識
+・画像処理アプリ構築
+
+【自由項目②】
+<充実した資格取得制度>
+メンバーのスキル習得の具体的な目標として、AI・データサイエンス系の資格を設定しています。
+研修で学ぶ Pythonの資格はもちろんのこと、統計学やDB、ディープラーニングといった、様々な資格を補助制度の対象としています。
+
+【資格取得実績】
+55名
+33名
+23名
+13名
+5名
+3名
+7名
+
+(2021.7現在)
+
+【自由項目③】
+<データサイエンティスト協会に加盟>
+設立から現在まで、データサイエンティスト人材の規模とスキル、100件以上のデータ分析の実績を積み、データサイエンティスト協会に加入できるレベルに達したと判断し、入会いたしました。
+
+本部署数約90名のうち、データサイエンティスト協会の定義するSenior Data Scientist〜Assosiate Data Scientistレベルまで、54名が在籍(2021年5月末時点)し、お客様のKPI/KGI達成のための分析・指導をはじめ予測モデル作成、AIサービスの企画・構築などをおこなっています。
+また、日々のデータ集計、分析といったお客様のビジネス推進から、分析環境構築(オンプレミス、クラウド)、BI導入による見える化といった支援もおこないます。
+
+月給
+
+年収:380万円~500万円(月収:26万3千800円~)
+うち固定残業代 2万609円/10h~
+※超過分は別途支給
+※スキルに応じ、決定します
+
+雇用形態 正社員",,,,,,,,,,,,,,,,,,92,,
+クライス&カンパニー,AI導入部門(カスタマーサクセス部)・部長職　/ データ解析企業,,japan,"<コンサルタントからのおすすめポイント>
+
+AI による顧客課題解決のコンサルティング・プロダクト導入を担うチームのマネジメント業務です。
+
+<募集要項>
+
+【職務内容】
+クライアントの課題発見〜自社プロダクトを用いた課題解決のためのコンサルティング。プロジェクトの受注〜納品に向けた技術者/営業担当との連携。よりスムーズにプロジェクトを進めるための社内フローの構築。既存クライアントへのサポート(運用フォロー、追加受注に向けた提案など)。研究部門・プロダクト開発部門と連携したアプリケーションの機能開発/改善のための情報整理。業務委託先パートナーとの協業において発生する交渉、契約等。チームメンバー全体のマネジメント、統制(PM、Data scientistなどから構成される約 10〜20 名のチーム)
+
+【勤務地】
+東京都港区
+
+【想定年収】
+1500万円　〜　1800万円
+
+【求めるスキル(必須条件)】
+(1)ソフトウェア(パッケージ製品)の導入や運用におけるコンサル/プリセールスの経験。ユーザーとの要件定義や運用フローの構築など、ハンズオンの経験。自社製品を用いたコンサルティング/プリセールスの経験。(2)事業責任者としてチームを牽引し、事業に沿って結果を出してきた経験。(3)複数のステークホルダーと交渉折衝をし、進むべき方向性を決め、実行をしてきた経験。(4)10人以上の組織のマネジメント経験。(5)事業推進における経営層とのコミュニケーション。
+
+【英語レベル】
+不問
+
+【学歴】
+大卒以上
+
+【求める人物像】
+テクノロジーに基づくビジネスの創出に興味を持ち、創出されたビジネスを早いスピードで展開することにやりがいや喜びを感じられる方。創り出した製品がユーザーに導入/活用されてゆくプロセスにやりがいや達成感を感じることができる方。経営的な視点をもって、ビジョン・戦略を創造し、業務を遂行できる方。
+
+<企業情報>
+
+【事業内容】
+FRONTEOは、自然言語処理に特化したデータ解析企業。独自に開発した人工知能(AI)エンジン「KIBIT(キビット)」と「conceptencoder(コンセプトエンコーダー)」を用いて、情報解析を支援しています。
+
+【設立年月】
+2003年8月
+
+【資本金】
+2億9739万円
+
+【従業員数】
+315人
+
+【本社所在地】
+東京都",,,,,,,,,,,,,,,,,,92,,
+クライス&カンパニー,Data Scientist Consultant　/　コンサルティングファーム,,japan,"<募集要項>
+
+【職務内容】
+数理統計・機械学習を用いた分析・モデル開発、ビジネス向けの説明・報告、ビジネス側・技術側を含むチーム内の意見交換などをはじめ、データをもとに科学的アプローチによる問題解決、意思決定の高度化のためのデータ活用支援などに従事。事業理解に伴う問題解決を志向し、高度な知見に基づいたデータ分析を実施、意思決定の高度化に寄与。統計・機械学習、計算機科学、経営工学、計量経済学などデータに基づいた意思決定を扱う領域における研究経験(データサイエンス領域)のあるメンバーで構成され、理論に基づいた高度な分析から実施の業務への示唆・提言が可能。Analytics、ML/Opsを支えるデータ分析基盤の知見を有するエンジニアも在籍している専門性を重視したチーム(博士進学率75%)。How(AIシステムの導入)ではなく、What(問題解決)を志向。問題に合わせて適切な解き方を適用。必要に応じて研究レベルで実施。
+
+【勤務地】
+東京都千代田区
+
+【想定年収】
+700万円　〜　1500万円
+
+【求めるスキル(必須条件)】
+数理統計、機械学習、コンピュータサイエンス、計量経済学、などデータ分析に関する領域の専門知識。データ分析に関するプログラミングスキル(R、Python、Julia、C、C++など)。ビジネス領域での数理統計・機械学習の応用経験3年以上。データ分析ツール・プログラミング言語の実装経験。構造化ならびに非構造化データの処理経験。
+
+【英語レベル】
+中級
+
+【学歴】
+大卒以上
+
+【募集背景】
+人員募集
+
+【活かせる経験】
+数理分野での研究経験を通じた、データに基づく科学的なアプローチの理解。不確実性の高い社会の問題に対して、データからアプローチをしようとした経験。
+
+【求める人物像】
+好きでデータ分析をやっており、業務外での勉強/研究を行っているような方。Dataにまつわるアカデミック領域の専門性を活かし、実社会宇の問題解決に応用をしたいという志向性の方。
+
+<企業情報>
+
+【事業内容】
+Big4のメンバーファームとして設立。常に変化するビジネス環境の中で、事業成長・業績向上の実現に向け、経営戦略、会計、SCM、CRM、人事・組織、ITアドバイザリー、デジタルソリューションなど、豊富な人材リソースや専門能力の活用、デジタル投資の強化を通じ、日本からアジア太平洋地域、さらには全世界へと事業展開を加速するクライアントへスピーディーかつ充実したグローバルサービスを提供。
+
+【設立年月】
+2020年10月
+
+【資本金】
+4億5000万円
+
+【従業員数】
+2300人
+
+【本社所在地】
+東京都",,,,,,,,,,,,,,,,,,92,,
+N I DRIVE K.K.,開発プロジェクト(データサイエンティスト) N I DRIVE株式会社,,japan,"ジョブID
+3927
+勤務地
+神奈川県川崎市川崎区宮本町7-1 6F
+職種
+正社員
+給与形態",,,,,,,,,,,,,,,,,,92,,
+株式会社エリメントHRC,創薬研究(シーズ探索・スクリーニング等),,japan,"創薬研究（シーズ探索・スクリーニング等）／専門職（研究開発）その他
+研究職求人 AIを活用した化学創薬技術開発の研究者募集！【神奈川県横浜市】低・中分子創薬技術の開発に取り組んでいただきます
+
+業務内容 『データサイエンティスト（AIを活用した化学創薬技術開発の研究者）/ Data scientist (Specialist in the development of AI-based chemical』
+
+世界最高水準の創薬の実現のために、AIなどの最新の情報科学技術とCADD技術を融合させた、他社にはない低・中分子創薬技術の開発に取り組んでいただきます。
+
+Description of work:
+In our quest to realize the world's most advanced level of drug discovery, you will be working to develop unrivaled small and mid-sized molecule drug discovery technologies that integrate state-of-the-art innovations in AI and CADD. 応募条件 【必要とする経験】
+
+【必要とするスキル・知識・能力】
+・博士号取得者はより望ましい
+・ビジネスコミュニケーションレベルの英語力として
+TOEIC 730点以上レベル
+
+【求める行動特性】
+・CADDを含む、化学創薬に携わる多様な分野の研究者と積極的に協働できる
+・困難な技術課題にも粘り強く取り組むことができる 給与条件 【年収】700万円 ～ 1000万円
+※前職での給与とご経験を考慮
+【昇給】年1回
+【賞与】年2回 勤務地 【勤務地エリア】神奈川県／静岡県
+研究所（静岡県御殿場市と神奈川県鎌倉市から神奈川県横浜市へ移転予定/22年秋以降） 募集職種 創薬研究（シーズ探索・スクリーニング等）／専門職（研究開発）その他 就業時間 【休憩時間】60分
+
+裁量労働制 休日休暇 完全週休二日制（土日曜日）、祝日、年末年始、有給休暇、慶弔休暇、産前産後休暇、介護休暇、年間休日120日以上 手当 住宅手当、交通費（通勤手当）、退職金制度
+
+裁量労働手当、企業年金 福利厚生 育児支援制度、介護支援制度、従業員持株会、契約保養所",,,,,,,,,,,,,,,,,,92,,
+"National Institutes of Natural Sciences, National Astronomical Observatory of Japan","Associate Professor, ALMA Project, NAOJ / 国立天文台アルマプロジェクト准教授",,japan,"部署名
+Department
+NAOJ ALMA Project
+
+
+機関種別
+Institution type
+National research institute / Independent administrative institute",,,,,,,,,,,,,,,,,,92,,
+クライス&カンパニー,Local CTH:Data Scientist/Data Engineering　/　世界四大会計事務所のメンバーコンサルティングファーム,,japan,"<募集要項>
+
+【職務内容】
+データエンジニアリング・構築・分析領域とデータサイエンス領域をリード。シニアステークホルダー(社内外の両方)と緊密に協力してビジネス要件を理解し、最新のAI、データサイエンス、高度な分析を適用して、クライアントに実践的な洞察を提供します。高度な分析業務に積極的に参加し、販売をリードし、ビジネス開発の機会を提供し、より広範なデータおよび分析プロジェクトと機会をサポート。高度な統計モデルの設計と開発をリードして、効果的な予測モデルを提供し、技術的およびシニアのビジネス関係者にモデルの長所と短所を明確に説明する。Manager/Senior Managerクラスを想定。
+
+【勤務地】
+東京都千代田区
+
+【想定年収】
+1000万円　〜　1800万円
+
+【求めるスキル(必須条件)】
+AWS、Azure、ホートンワークス、Clouderaなどのビッグデータ環境内でのソリューションの設計。6年以上の高度な分析/機械学習PJの提供経験。データアナリスト/データサイエンティストのチームを率いてPJを成功に導いた経験。Cスイートからスペシャリストまで幅広いオーディエンスに明確かつ簡潔に複雑なコンセプトを明確に説明する豊富な経験。優れたライティングおよび口頭でのコミュニケーション、プレゼンテーション、クライアントサービス、テクニカルスキル。R/Python/C++、優れたSQLスキル。
+
+【英語レベル】
+中級
+
+【学歴】
+大卒以上
+
+【募集背景】
+事業拡大に伴う増員
+
+【活かせる経験】
+高度な分析/機械学習プロジェクトの提供に関する6年以上の経験。データアナリスト/データサイエンティストのチームを率いてプロジェクトの提供を成功に導いた経験。Cスイートからスペシャリストまで幅広いオーディエンスに明確かつ簡潔に複雑なコンセプトを明確に説明する豊富な経験。優れたライティングおよび口頭でのコミュニケーション、プレゼンテーション、クライアントサービス、テクニカルスキル。ビジネスレベルの英語スキル。R/Python/C++ 、優れたSQLスキル。
+
+【求める人物像】
+技術視点、ビジネス視点、クライアント視点をお持ちの方。
+
+<企業情報>
+
+【事業内容】
+Big4のメンバーファームとして設立。常に変化するビジネス環境の中で、事業成長・業績向上の実現に向け、経営戦略、会計、SCM、CRM、人事・組織、ITアドバイザリー、デジタルソリューションなど、豊富な人材リソースや専門能力の活用、デジタル投資の強化を通じ、日本からアジア太平洋地域、さらには全世界へと事業展開を加速するクライアントへスピーディーかつ充実したグローバルサービスを提供。
+
+【設立年月】
+2020年10月
+
+【資本金】
+4億5000万円
+
+【従業員数】
+2300人
+
+【本社所在地】
+東京都",,,,,,,,,,,,,,,,,,92,,
+Tohoku University,Professor / Associate Professor,,japan,"部署名
+Department
+Co-creation Center for Disaster Resilience(IRIDeS)
+
+
+機関種別
+Institution type
+National university",,,,,,,,,,,,,,,,,,92,,
+【営業】メンバー/ビッグデータ案件担当,営業メンバー/ビッグデータ案件担当,,japan,"【概要・業務内容】
+現在、引き合いが徐々に多くなってきており、SES営業として開発メンバーのプロジェクトのアサインや案件拡大を担っていただく方を募集いたします。
+
+<仕事内容>
+大手通信会社などの法人企業に対して、ビジネス目標や課題をヒアリングし、顧客事業に必要なエンジニアのスペックのヒアリングをおこない、AIやビッグデータなどを扱うことのできるエンジニアを紹介する業務お任せします。
+
+<業務内容>
+・企業の課題をヒアリングして必要な人的リソースの把握、提案
+・既存顧客への深耕営業、新案件の開拓
+・新規営業
+・技術者の管理・定期フォロー
+・パートナー企業との情報交換　など
+
+<ポイント>
+・技術力の高いエンジニアを多数有しているため、クライアントのニーズに沿った幅広い提案が可能です。
+・経営陣との距離が近く、意思決定が早いためクライアントに対してスピーディーで、効率的な営業活動が行えます。
+
+【募集背景】
+企業拡大に伴う、増員募集のため。
+
+【配属部署】
+データサイエンス事業部
+
+【概要】
+Shift the Direction
+~改善から革新へ~
+
+AMBLは4つの成長領域(AI/人工知能、クラウドネイティブ/システム開発、UXデザイン、マーケティング)からお客さまのDX推進を支援しております。
+各領域単独での支援も、それぞれの領域をかけあわせた支援の実績もあり、様々なニーズにお答えするケーパビリティを持っています。
+また、各サービスと併せて弊社が持つテクノロジーを組み合わせて、企業特有の問題や前例のないDX課題にも柔軟に対応します。
+
+【この仕事で得られるもの】
+・顧客提案力/折衝力
+・コミュニケーション力
+・PJT企画提案力
+
+【必須スキル・経験】
+法人営業経験(無形有形不問)
+
+【歓迎スキル・経験】
+SES営業、インテグレーター、SI営業経験
+
+【求める人物像】
+・顧客のニーズを深く理解し社内外の協働を円滑にするコミュニケーション力の高い方
+・0→1で業務を作り出すことに抵抗がない方
+・過去の経験や事例に固執せず、その場その場に応じた実践的なアプローチを考えられる方
+
+【想定給与】
+月給
+
+年収:380万円~500万円(月収:26万3千800円~)
+うち固定残業代 2万609円/10h~
+※超過分は別途支給
+※スキルに応じ、決定します
+
+【想定給与②】
+基本給÷160(所定労働時間)×1.25×固定時間
+超えた時間(分)×1.25
+
+賞与/6・12月
+給与改定/年2回
+テレワーク
+通信手当
+
+【年収例】
+年収500万円/メンバー 月給35万円(経験4年)
+年収700万円/マネージャー 月給48万円(経験10年)
+
+【選考プロセス】
+まずはお気軽にご応募下さい。
+↓
+※面接はオンラインで実施します。
+部長/課長
+本部長
+↓
+応募から採用内定まで、最短2週間を予定しております。
+入社後のGAPを防ぐため、育成担当やPJTメンバーとの事前顔合わせや、
+また条件の通知や会社の制度を詳しくお伝えさせていただく場として、
+オファー面談を実施予定です。
+
+【定員】
+1 名
+
+【勤務地】
+品川区大崎一丁目2番2号 アートヴィレッジ大崎セントラルタワー10階(本社) またはクライアント先(東京都内)/在宅勤務
+
+【勤務時間】
+フルフレックス制
+
+8h(うち1h休憩)/月160h程度
+※例)①9:00-18:00②10:00-19:00
+
+有
+
+【待遇・福利厚生】
+正社員(期間の定め無し)
+3ヵ月
+※試用期間中、条件面・待遇面に相違なし
+
+【休日・休暇】
+産前産後休暇 　復職率100%!
+育児休暇 　男性の取得実績あり!
+有給休暇 　取得率77%!
+
+【募集拠点】
+データサイエンス事業部
+東京都品川区大崎一丁目2番2号 アートヴィレッジ大崎セントラルタワー10階
+
+【自由項目①】
+『AIシフトでヒトと企業の価値を高める』
+AIfieldは、グループ会社にあたる株式会社エム・フィールドのモバイルソリューション事業部データマイニング推進部として2018年4月よりデータ分析・AI構築における事業を開始。
+
+今後市場拡大が予測される「ビッグデータ」「IoT」「人工知能」などの先端技術領域にて、
+実社会・ビジネスで抱えている課題解決と変革のために、新しい価値の提供ができるような存在として、社会貢献を目指します。
+
+【自由項目②】
+<充実した資格取得制度>
+Aifieldはメンバーのスキル習得の具体的な目標として、AI・データサイエンス系の資格を設定しています。
+研修で学ぶ Pythonの資格はもちろんのこと、統計学やDB、ディープラーニングといった、様々な資格を補助制度の対象としています。
+
+【資格取得実績】
+55名
+33名
+23名
+13名
+5名
+3名
+7名
+
+(2021.7現在)
+
+【自由項目③】
+<データサイエンティスト協会に加盟>
+Aifieldの設立から現在まで、データサイエンティスト人材の規模とスキル、100件以上のデータ分析の実績を積み、データサイエンティスト協会に加入できるレベルに達したと判断し、入会いたしました。
+
+Aifield社員数約90名のうち、データサイエンティスト協会の定義するSenior Data Scientist〜Assosiate Data Scientistレベルまで、54名が在籍(2021年5月末時点)し、お客様のKPI/KGI達成のための分析・指導をはじめ予測モデル作成、AIサービスの企画・構築などをおこなっています。
+また、日々のデータ集計、分析といったお客様のビジネス推進から、分析環境構築(オンプレミス、クラウド)、BI導入による見える化といった支援もおこないます。
+
+月給
+
+年収:380万円~500万円(月収:26万3千800円~)
+うち固定残業代 2万609円/10h~
+※超過分は別途支給
+※スキルに応じ、決定します
+
+雇用形態 正社員",,,,,,,,,,,,,,,,,,92,,
+Cornerstone Recruitment Japan 株式会社,IT、通信 > データベース開発/管理,,japan,"求人ID : 1318392 更新日 : 2022年10月06日
+Senior Data Scientist
+採用企業
+Global Software Company
+
+勤務地
+東京都 23区
+
+雇用形態
+正社員
+
+給与",,,,,,,,,,,,,,,,,,92,,
+HAVIサプライチェーン・ソリューションズ・ジャパン合同会社,IT戦略・システム企画担当,,japan,"HAVIサプライチェーン・ソリューションズ・ジャパン合同会社
+
+【在宅勤務中心】シニアビジネスアナリスト/データサイエンス&レポーティング　※フレックス・土日休
+
+【仕事内容】
+【在宅勤務中心】シニアビジネスアナリスト/データサイエンス&レポーティング　※フレックス・土日休
+
+【具体的な仕事内容】
+日本最大級の外食企業(コロナ禍でも好調をキープ)に特化したHAVIグループの100%出資会社である当社のシニアビジネスアナリストとして、以下の業務をお任せいたします。
+・マスターデータ、ビジネスレポート、セルフサービス統合、データセキュリティの管理、データガバナンスのルールやポリシーの定義と導入、新しいデータ機能を推進
+・自社市場の他部門と協力し、データガバナンスの普及をサポート
+意欲に応じて、スペシャリストとしてのデータサイエンティストとして活躍する道もあれば、ジェネラリストとしての人材管理・マネジメントを行う道もあります。また、日本だけではなく、アジア地域で働く機会もあります。
+・クライアント(社内ユーザー、顧客)のデータ、情報、インサイトのニーズを把握し、データマネジメントにおける目標設定、および技術の実装と監督
+・ビジネスにおける一貫性のあるデータ定義を開発する/コンテンツサポート、ユーザートレーニング/臨時のデータ抽出や分析
+・データスチュワードシップのタスクを簡素化し、効率化/データスチュワードとして、データガバナンスおよび原則の管理を支援
+・品質指標を定義し、データ関連のポリシーや基準へのコンプライアンスを確保する/データを中心としたプロジェクトの実施
+・データのワークストリームをリードするプロジェクトへの貢献/データ関連のビジネス要件を経営部門および職務部門とテクノロジー部門間に伝達
+・データの適切なソリューションを設計する/HAVIのグローバル、リージョナルサービスおよびプラットフォームと連携
+・新規顧客のデータ運用管理、レポーティングのためのERPソリューションのマスターデータの管理/データ品質基準、保護ポリシー、セキュリティ基準の策定と導入
+・コンピュータサイエンス、情報技術、経営学のいずれかの分野での学士号または同等の資格(修士号が望ましい)
+・Microsoft Azure Data Scientist、またはData Management Professionalの認定資格
+・Oracle Database SQL認定アソシエイト
+
+【対象となる方】
+学歴不問
+
+【対象となる方(詳細)】
+<応募資格/応募条件>
+・5年以上のデータベース開発および管理の経験
+・3年以上のPowerBI、Tableauなどのツールを用いたビジネスインサイトおよびレポート開発の経験
+・業界をリードするデータ品質とデータ保護に関する知識
+・ビジネスリレーションシップマネジメントやビジネスプロセスマネジメントの経験
+・SQLクエリー(MySQL、Oracle SQLなど)の作成・実行における経験/物流業界の知識
+・人材管理の経験
+
+<語学補足>
+上級
+
+【勤務地】
+<勤務地詳細>
+本社
+住所:東京都中野区本町2-46-1 中野坂上サンブライトツインビル
+丸の内/大江戸線/中野坂上駅
+屋内全面禁煙
+
+<転勤>
+当面なし
+転勤は当面想定していません。
+
+【勤務時間】
+<労働時間区分>
+フレックスタイム制(フルフレックス)
+60分
+無
+
+<標準的な勤務時間帯>
+9:00~18:00
+
+<その他就業時間補足>
+※上記は標準的な労働時間です
+
+【雇用形態】
+正社員
+
+<雇用形態補足>
+無
+
+<試用期間>
+3ヶ月
+試用期間中も、条件に変動はありません。
+
+【給与】
+<予定年収>
+800万円~1,000万円
+
+<賃金形態>
+年俸制
+12分割
+
+<賃金内訳>
+8,000,000円~10,000,000円
+
+<月額>
+666,666円~833,333円(12分割)
+
+<昇給有無>
+有
+
+<残業手当>
+有
+
+<給与補足>
+※給与詳細は、経験・能力・年齢・前職給与などを考慮の上、決定します。
+
+記載金額は選考を通じて上下する可能性があります。
+月給(月額)は固定手当を含みます。
+
+【待遇・福利厚生　各種制度】
+通勤手当、健康保険、厚生年金保険、雇用保険、労災保険、退職金制度
+
+<各手当・制度補足>
+全額支給
+社会保険完備
+補足事項なし
+
+<定年>
+63歳
+
+<教育制度・資格補助補足>
+OJT、300種類を超えるオンライン研修プログラムを無料で受講可能です。
+
+<その他補足>
+※社内ブレイクエリアがありますのでランチ持参でゆっくり休憩できます。
+
+【休日・休暇 その他】
+完全週休2日制(休日は会社カレンダーによる)
+年間有給休暇10日~10日(下限日数は、入社半年経過後の付与日数となります)
+年間休日日数122日
+
+年末年始休暇、有給休暇、慶弔休暇、傷病休暇、誕生日休暇、ボランティア休暇
+
+【事業概要】
+同社は運送、配送業務等、サプライヤーからの調達、物流センターでの在庫管理、温度管理された食材の店舗への配送等、サプライチェーンにおけるすべての部分の最適化を図り、顧客に代わって実行します。以下のEnd-To-Endサービスを提供しています。
+
+【郵便番号】
+1640012
+
+【所在地】
+東京都中野区本町2-46-1 中野坂上サンブライトツインビル
+
+【設立年 補足】
+2010年2月
+
+【従業員数】
+441名
+
+【上場市場名】
+非上場
+
+【資本金】
+300百万円
+
+【平均年齢】
+39歳
+
+【企業URL】
+http://www.jp.havilogasia.com/index.html",,,,,,,,,,,,,,,,,,92,,
+Olink,"Business Development Manager, Japan",,japan,"Who we are
+Olink Proteomics is a rapidly growing life science company committed to advancing the understanding of human diseases through proteomics. We are dedicated to innovation, quality, rigor and transparency, providing outstanding solutions and support for human protein biomarker discovery.
+The vital role of proteins in understanding human biology has been recognized for many decades, but technological limitations severely restricted the comprehensive investigation of the huge number of proteins that could be important in different biological processes and diseases. With Olink, scientists can now simultaneously measure thousands of human proteins using just a few µL of blood sample, with highly specific, thoroughly validated assays that cover a very wide dynamic range (fg/mL to µg/mL).
+In a few years, Olink has grown rapidly from a small, Sweden-based company offering assays for a few hundred proteins, to a NASDAQ-listed organization with a strong global presence, a broad portfolio of flexible protein biomarker solutions and library of high quality, thoroughly validated assays that covers ~3000 proteins.",,,,,,,,,,,,,,,,,,92,,
+Capgemini Japan,Windchill Project Manager,,japan,"Duties and Responsibilities:
+We are looking for a consultant to work on a project with a major manufacturing client involving Aras, an important PLM (Product Lifecycle Management) solution that supports the backbone of the manufacturing industry. In addition to various engineering tasks such as design, implementation, implementation, verification, and failure response, you will also be responsible for actual add-on development work. You will be able to gain experience in a global work environment, collaborating with many overseas staff.
+
+(Examples of major tasks)
+Aras basic configuration, system design, implementation work, verification and troubleshooting during implementation",,,,,,,,,,,,,,,,,,92,,
+【デジタルマーケティング】データ分析/データアナリスト,デジタルマーケティングデータ分析/データアナリスト,,japan,"【概要・業務内容】
+<概要>
+広告代理店の経験を活かし、デジタルマーケティングのデータ分析業務にチャレンジしませんか。
+
+<業務内容>
+・セグメントの作成
+・ターゲットの検討と抽出
+・MA設定支援
+・効果分析
+
+<ポイント>
+・広告代理店でのプロモーションの知識を活かしてデータ分析者を目指しませんか。
+・入社後、データ分析の基礎研修を2ヶ月実施
+・基礎的なプロジェクトに参画しステップをあがってもらいます。
+
+<研修内容>
+2ヶ月程の研修後、スキルに応じた業務からスタート。
+その後、成長に応じてデータ分析や仮説検証、改善提案などをおこないます。
+※当社の研修=座学です。
+
+<社内研修内容>
+・SQLでのデータ抽出力
+・Pythonによるデータ分析基礎スキル
+・統計の基礎知識
+・画像処理アプリ構築or機械学習研修
+
+【募集背景】
+企業拡大に伴う、増員募集のため。
+
+【配属部署】
+データサイエンス事業部
+
+【概要】
+Shift the Direction
+~改善から革新へ~
+
+AMBLは4つの成長領域(AI/人工知能、クラウドネイティブ/システム開発、UXデザイン、マーケティング)からお客さまのDX推進を支援しております。
+各領域単独での支援も、それぞれの領域をかけあわせた支援の実績もあり、様々なニーズにお答えするケーパビリティを持っています。
+また、各サービスと併せて弊社が持つテクノロジーを組み合わせて、企業特有の問題や前例のないDX課題にも柔軟に対応します。
+
+【この仕事で得られるもの】
+膨大なデータを用いて、世の中の価値を見つけ出し、サービスがどんどん生まれる企業の案件を担当して頂きます。求められるレベルは高いかもしれません。間近でサービスが生まれ、PDCAを回し、新しいサービス企画に生かす、そんな現場は中々世の中にないと思います。
+
+当社の案件のほとんどが、お客様から直接依頼を受けているものなので、「言われた通りに仕事をする」ではなく、「自ら提案を行っていく」がスタンダードです。自分のアイディアが源泉となり、お客様の心を動かし、チーム一丸となって共に創り上げる、【モノづくりの醍醐味】が味わえます。
+
+お客様は日本トップクラスの大規模企業ばかりなので、企画・開発プロジェクトも丁寧(かつ迅速)に進行します。「きめ細かい」シゴトを行うという、ビジネスマンにとって大切な基礎能力が【最高レベル】で身に付けられます。
+
+【必須スキル・経験】
+下記のいずれかの経験がある方
+・顧客企業への提案資料作成・提案
+・各種マーケティング業務
+・データ抽出・加工業務(SQL, Hadoop, Redshift他)
+・R、Python、SPSS Modeler、Tableau、SASの使用
+・何らかのプログラミング、機械学習の経験
+・各種AIスクール卒業
+
+※本職種は1年以上の就業経験ある方を前提としております。
+(AI、データに関わらない業務で構いません)
+
+【歓迎スキル・経験】
+・SQL、Big Query、Red Shift等を使ったDBからのデータ抽出経験
+・SPSS、SAS、R、Python等データ分析・レポーティング経験
+・SQL, Python, R言語での開発経験
+・マーケティングリサーチ、市場調査などの業務経験
+・power BIやtableauダッシュボードを使ったダッシュボード構築経験
+・統計や機械学習関する知識
+
+【求める人物像】
+・データ抽出などを経験し、分析にシフトしたい方
+・将来はデータサイエンティストを目指したい方
+・開発エンジニアを生かし、サイエンティストへキャリアチェンジしたい方
+
+【想定給与】
+月給
+
+年収:380万円~500万円(月収:26万3千800円~)
+うち固定残業代 2万609円/10h~
+※超過分は別途支給
+※スキルに応じ、決定します
+
+【想定給与②】
+基本給÷160(所定労働時間)×1.25×固定時間
+超えた時間(分)×1.25
+
+賞与/6・12月
+給与改定/年2回
+テレワーク
+通信手当
+
+【年収例】
+年収500万円/メンバー 月給35万円(経験4年)
+年収700万円/マネージャー 月給48万円(経験10年)
+
+【選考プロセス】
+まずはお気軽にご応募下さい。
+↓
+※面接はオンラインで実施します。
+部長/課長
+本部長
+↓
+応募から採用内定まで、最短2週間を予定しております。
+入社後のGAPを防ぐため、育成担当やPJTメンバーとの事前顔合わせや、
+また条件の通知や会社の制度を詳しくお伝えさせていただく場として、
+オファー面談を実施予定です。
+
+【定員】
+3 名
+
+【勤務地】
+品川区大崎一丁目2番2号 アートヴィレッジ大崎セントラルタワー10階(本社) またはクライアント先(東京都内)/在宅勤務
+
+【勤務時間】
+フルフレックス制
+
+8h(うち1h休憩)/月160h程度
+※例)①9:00-18:00②10:00-19:00
+
+有
+
+【待遇・福利厚生】
+正社員(期間の定め無し)
+3ヵ月
+※試用期間中、条件面・待遇面に相違なし
+
+【休日・休暇】
+産前産後休暇 　復職率100%!
+育児休暇 　男性の取得実績あり!
+有給休暇 　取得率77%!
+
+【募集拠点】
+データサイエンス事業部
+東京都品川区大崎一丁目2番2号 アートヴィレッジ大崎セントラルタワー10階
+
+【自由項目①】
+『AIシフトでヒトと企業の価値を高める』
+AIfieldは、グループ会社にあたる株式会社エム・フィールドのモバイルソリューション事業部データマイニング推進部として2018年4月よりデータ分析・AI構築における事業を開始。
+
+今後市場拡大が予測される「ビッグデータ」「IoT」「人工知能」などの先端技術領域にて、
+実社会・ビジネスで抱えている課題解決と変革のために、新しい価値の提供ができるような存在として、社会貢献を目指します。
+
+【自由項目②】
+<充実した資格取得制度>
+Aifieldはメンバーのスキル習得の具体的な目標として、AI・データサイエンス系の資格を設定しています。
+研修で学ぶ Pythonの資格はもちろんのこと、統計学やDB、ディープラーニングといった、様々な資格を補助制度の対象としています。
+
+【資格取得実績】
+55名
+33名
+23名
+13名
+5名
+3名
+7名
+
+(2021.7現在)
+
+【自由項目③】
+<データサイエンティスト協会に加盟>
+Aifieldの設立から現在まで、データサイエンティスト人材の規模とスキル、100件以上のデータ分析の実績を積み、データサイエンティスト協会に加入できるレベルに達したと判断し、入会いたしました。
+
+Aifield社員数約90名のうち、データサイエンティスト協会の定義するSenior Data Scientist〜Assosiate Data Scientistレベルまで、54名が在籍(2021年5月末時点)し、お客様のKPI/KGI達成のための分析・指導をはじめ予測モデル作成、AIサービスの企画・構築などをおこなっています。
+また、日々のデータ集計、分析といったお客様のビジネス推進から、分析環境構築(オンプレミス、クラウド)、BI導入による見える化といった支援もおこないます。
+
+月給
+
+年収:380万円~500万円(月収:26万3千800円~)
+うち固定残業代 2万609円/10h~
+※超過分は別途支給
+※スキルに応じ、決定します
+
+雇用形態 正社員",,,,,,,,,,,,,,,,,,92,,
+N I DRIVE株式会社,IT、通信 > プロジェクトマネジメント,,japan,"求人ID : 1275553 更新日 : 2022年10月13日
+Cheerful and always willing to learn new
+Urgent Need! Project manager for global information services
+採用企業
+NI DRIVE株式会社
+
+勤務地
+神奈川県, 川崎市川崎区
+
+雇用形態
+正社員
+
+
+服装カジュアル 残業少なめ フレックスタイム制",,,,,,,,,,,,,,,,,,92,,
+大学共同利用機関法人 自然科学研究機構 国立天文台,研究教育職員(アルマプロジェクト准教授(EA-ARC)),,japan,"JOB VACANCY ANNOUNCEMENT
+Associate Professor, ALMA Project, National Astronomical Observatory of Japan (NAOJ)
+The National Astronomical Observatory of Japan (NAOJ) announces a vacancy for an
+Associate Professor position as Commissioning Scientist at the East Asian ALMA Regional
+Center (EA-ARC) of the NAOJ ALMA Project to enhance the team to support ALMA science
+operations and commissioning of new observing modes, and to conduct excellent scientific
+research with ALMA and other world-leading astronomical facilities.
+.",,,,,,,,,,,,,,,,,,92,,
+ACS Japan,IT、通信 > プロジェクトマネジメント,,japan,"求人ID : 1277457 更新日 : 2022年10月07日
+[New] Our Global Client is looking for
+Data Analytics Project Manager
+勤務地
+東京都 23区
+
+雇用形態
+正社員
+
+給与
+経験考慮の上、応相談
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+多数のポジションを募集しております。",,,,,,,,,,,,,,,,,,92,,
+デュポン株式会社,IT、通信 > ITアナリスト,,japan,"求人ID : 1267625 更新日 : 2022年10月12日
+英語力を活かしてグローバルに働く / 売上高前年比116％の成長率！
+【東京/新潟】Data Engineer // データエンジニア
+採用企業
+デュポン株式会社（DuPont Kabushiki Kaisha）
+
+勤務地
+東京都 23区, 千代田区
+
+雇用形態
+正社員
+
+
+リモートワーク・在宅勤務",,,,,,,,,,,,,,,,,,92,,
+楽天グループ株式会社,マーケティングAI部　マーケティングインサイトセクション:テックプロダクトマネージャー,,japan,"【マーケティングAI部　マーケティングインサイトセクション:テックプロダクトマネージャー】
+No.435314981
+
+こだわり条件:大手企業,女性が活躍,30代活躍中,大卒以上,英語力を活かせる,即日スタート,経験者優遇,駅から徒歩5分以内,週休2日制,土日祝日休み,交通費支給,社員食堂あり,社会保険完備,研修あり:
+
+【企業名】
+楽天グループ株式会社
+
+【雇用形態】
+正社員
+
+【職種】
+
+
+【給与・報酬】
+
+給与:経験・能力および前職給与を考慮して決定します。
+賞与:年2回、6月・12月に会社及び個人の業績により支給
+
+【休日・休暇】
+休日:土曜、日曜、祝日
+休暇:夏期冬期休暇、年次有給休暇、特別休暇(産前産後休暇・育児休暇・結婚休暇など)
+
+【就業時間】
+
+【勤務地】
+東京都世田谷区玉川
+東急各線 二子玉川駅から徒歩4分
+
+【企業情報】
+
+【試用期間】
+なし
+
+【業務内容】
+【楽天・事業について】
+楽天グループは、日本に約1億人の顧客基盤を持ち、世界で約10億人の顧客基盤を擁し、eコマース、決済サービス、金融サービス、通信、メディア、スポーツなど、さまざまなサービスを70以上提供しています。
+
+【部署・サービスについて】
+データドリブンメンバーシップカンパニーとしての戦略的ビジョンとして、私たちは楽天グループの複数の企業にまたがるデータ活動を拡大しています。
+私たちのミッションは、ユーザーのマーケティング活動の効率性/有効性を高めるデータプロダクトならびにAI関連のプロダクトを提供することです。
+
+【業務内容】
+当ポジションでは、主にマーケティング領域のAIアプリケーション開発におけるプロダクトマネジメントをご担当頂きます。
+私たちのチームは、新規のプロダクト/ファンクション開発のみならず(zero to one)、それらの更なる改善・グロース(one to ten)に対する責任も担っておりますが、当ポジションにおいても同様に、プロダクトマネジメントにおける広範な役割を担って頂きます。
+
+・新規プロダクトならびにファンクション改善を企画する(含、企画の背景となるファクトの収集ならびにロジックの構築)
+・新規プロダクトならびにファンクションのテクニカルなデザイン(Requirement/Architecture/Solution、など)を定義する。
+・各種エンジニアリングチームのメンバー(Software Engineer、Data Engineer、Data Scientist、など)と協力し、上記のプロジェクト実行を推進・支援する。また、その実行におけるオペレーショ・ナルエクセレンス(効率性、スケーラビリティ、など)を担保する。
+・プロダクトの提供価値を(当社内外の)クライアントに伝えることで販売を促進し(含、販売戦略立案)、プロダクトを成功に導く。
+
+Technical Product Manager
+
+Mid-Intermediate to Senior(プロアクティブに業務を推進して頂きます)
+
+【働く環境】
+プロジェクトに応じて適切なテクノロジーを柔軟に選択する文化を有する一方で、直近では下記のテクノロジーの活用が多くみられます。
+Python、MLFlow、Django、Flask、REST、GraphQL、Docker、Kubernetes、Helm、Argo Workflow、Argo CD、Gitlab、Sentry、Presto/Trino、Hive、Hadoop、Spark、MariaDB、SQL/HQL、etc.
+
+インターナショナルかつダイバーシティのあるチームであり、経験豊富な「エンジニアならびに営業・事業開発担当者」を抱えています。(チームの規模は30人程度です。)
+
+【応募条件】
+【必須要件】
+・プロダクトマネージャーとしての実務経験(最低1年、理想的にはB2B製品領域)
+・プロダクトマネージャとしての高いスキル(ニーズや提供価値の定量/定性分析、新規プロダクト・ファンクション改善の企画、ソリューションのデザイン、販売戦略策定など)
+
+・ビジネスマンとしての優れた思考力(問題解決能力、戦略的思考力、仮説思考力、など)
+・優れたプロフェッショナル特性(自発性、チーム志向、責任感、信頼性、GRIT 「Guts、Resilience、Initiative、Tenacity」など)
+
+・エンジニアとしての実務経験(Software Engineer、Machine Learning Engineer、or Data Engineer)あるいはそれに準ずる知見・経験
+・コンピュータサイエンス(または関連する技術/科学分野)の学士号、あるいはそれに準ずる知見・経験
+
+ビジネスレベルの英語力ならびに日本語力
+
+【歓迎要件】
+・コンピュータサイエンス、数学、統計学、または関連分野の修士号
+・(プロトタイプだけでなく)プロダクションレベルのデータサイエンスソリューション構築の経験
+・データサイエンス領域における主要な「コンピューター言語ならびにフレームワーク」の利用経験(Python、Pandas、Numpy、Scikit-learn、Keras、H2O、pipeline frameworks[e.g. MLFlow]など)
+・データベース(含、SQL)の知見・経験
+
+【待遇・福利厚生】
+健康保険、厚生年金、雇用保険、労災
+
+支給
+
+【人事育成制度】
+入社時研修
+キャリア構築研修
+管理職研修
+Global Experience Program(GEP)
+
+【サポート】
+社員持株会
+スポーツ クラブ法人会員
+ビザサポート
+社内託児所「楽天ゴールデンキッズ」
+
+【社内サービス】
+カフェテリア(朝食・昼食・夕食無料)
+ライブラリ(個人学習スペース)
+コンビニエンスストア
+診療所「Rakuten Clinic」(有料)
+薬局「Rakuten Pharmacy」(有料)
+フィットネスジム「Rakuten Fitness Club &Spa」(有料)
+ヘアサロン「Rakuten Salon」(有料)
+ランドリーサービス「Rakuten Cleaning」(有料)
+マッサージ&鍼「HARI-UP」(有料)
+
+【イベント】
+クラブ活動
+納会など
+
+【屋内の受動喫煙対策】
+有(屋内禁煙)
+
+・楽天会員数は、国内で9,000万人超。グローバル含むグループサービス利用者数は10億超です。
+・オフィスは二子玉川の「クリムゾンハウス」。見晴しのよい社員食堂にはカフェも併設! 社内託児所やフィットネスクラブ&スパなども併設されています。
+・英語公用語化に取り組んでおり、TOEIC800点取得のための支援制度もございます。",,,,,,,,,,,,,,,,,,92,,
+【SES営業】マネージャー/AI・ビッグデータ案件,SES営業マネージャー/AI・ビッグデータ案件,,japan,"【概要・業務内容】
+現在、引き合いが徐々に多くなってきており、SES営業として開発メンバーのプロジェクトのアサインや案件拡大を担っていただく方を募集いたします。
+
+<仕事内容>
+大手通信会社などの法人企業に対して、ビジネス目標や課題をヒアリングし、顧客事業に必要なエンジニアのスペックのヒアリングをおこない、AIやビッグデータなどを扱うことのできるエンジニアを紹介する業務お任せします。
+
+<業務内容>
+・企業の課題をヒアリングして必要な人的リソースの把握、提案
+・既存顧客への深耕営業、新案件の開拓
+・新規営業
+・技術者の管理・定期フォロー
+・パートナー企業との情報交換　など
+
+<ポイント>
+・技術力の高いエンジニアを多数有しているため、クライアントのニーズに沿った幅広い提案が可能です。
+・経営陣との距離が近く、意思決定が早いためクライアントに対してスピーディーで、効率的な営業活動が行えます。
+
+【募集背景】
+企業拡大に伴う、増員募集のため。
+
+【配属部署】
+データサイエンス事業部
+
+【概要】
+Shift the Direction
+~改善から革新へ~
+
+AMBLは4つの成長領域(AI/人工知能、クラウドネイティブ/システム開発、UXデザイン、マーケティング)からお客さまのDX推進を支援しております。
+各領域単独での支援も、それぞれの領域をかけあわせた支援の実績もあり、様々なニーズにお答えするケーパビリティを持っています。
+また、各サービスと併せて弊社が持つテクノロジーを組み合わせて、企業特有の問題や前例のないDX課題にも柔軟に対応します。
+
+【この仕事で得られるもの】
+・顧客提案力/折衝力
+・コミュニケーション力
+・PJT企画提案力
+
+【必須スキル・経験】
+SES営業経験(2年以上目安)
+
+【歓迎スキル・経験】
+・数字にコミットして営業活動に専念できる方
+・リスクマネジメントの経験
+
+【求める人物像】
+・法人営業戦略を立てられる方
+・メンバーのモチベーション維持ができる方
+・顧客のニーズを深く理解し社内外の協働を円滑にするコミュニケーション力の高い方
+・0→1で業務を作り出すことに抵抗がない方
+・過去の経験や事例に固執せず、その場その場に応じた実践的なアプローチを考えられる方
+
+【想定給与】
+月給
+
+年収:500万円~900万円(月収:34万7千200円~)
+うち固定残業代 2万7千125円/10h~
+※超過分は別途支給
+※スキルに応じ、決定します
+
+【想定給与②】
+基本給÷160(所定労働時間)×1.25×固定時間
+超えた時間(分)×1.25
+
+賞与/6・12月
+給与改定/年2回
+テレワーク
+通信手当
+
+【年収例】
+年収500万円/メンバー 月給35万円(経験4年)
+年収700万円/マネージャー 月給48万円(経験10年)
+
+【選考プロセス】
+まずはお気軽にご応募下さい。
+↓
+※面接はオンラインで実施します。
+部長/課長
+本部長
+↓
+応募から採用内定まで、最短2週間を予定しております。
+入社後のGAPを防ぐため、育成担当やPJTメンバーとの事前顔合わせや、
+また条件の通知や会社の制度を詳しくお伝えさせていただく場として、
+オファー面談を実施予定です。
+
+【定員】
+1 名
+
+【勤務地】
+品川区大崎一丁目2番2号 アートヴィレッジ大崎セントラルタワー10階(本社) またはクライアント先(東京都内)/在宅勤務
+
+【勤務時間】
+フルフレックス制
+
+8h(うち1h休憩)/月160h程度
+※例)①9:00-18:00②10:00-19:00
+
+有
+
+【待遇・福利厚生】
+正社員(期間の定め無し)
+3ヵ月
+※試用期間中、条件面・待遇面に相違なし
+
+【休日・休暇】
+産前産後休暇 　復職率100%!
+育児休暇 　男性の取得実績あり!
+有給休暇 　取得率77%!
+
+【募集拠点】
+データサイエンス事業部
+東京都品川区大崎一丁目2番2号 アートヴィレッジ大崎セントラルタワー10階
+
+【自由項目①】
+『AIシフトでヒトと企業の価値を高める』
+AIfieldは、グループ会社にあたる株式会社エム・フィールドのモバイルソリューション事業部データマイニング推進部として2018年4月よりデータ分析・AI構築における事業を開始。
+
+今後市場拡大が予測される「ビッグデータ」「IoT」「人工知能」などの先端技術領域にて、
+実社会・ビジネスで抱えている課題解決と変革のために、新しい価値の提供ができるような存在として、社会貢献を目指します。
+
+【自由項目②】
+<充実した資格取得制度>
+Aifieldはメンバーのスキル習得の具体的な目標として、AI・データサイエンス系の資格を設定しています。
+研修で学ぶ Pythonの資格はもちろんのこと、統計学やDB、ディープラーニングといった、様々な資格を補助制度の対象としています。
+
+【資格取得実績】
+55名
+33名
+23名
+13名
+5名
+3名
+7名
+
+(2021.7現在)
+
+【自由項目③】
+<データサイエンティスト協会に加盟>
+Aifieldの設立から現在まで、データサイエンティスト人材の規模とスキル、100件以上のデータ分析の実績を積み、データサイエンティスト協会に加入できるレベルに達したと判断し、入会いたしました。
+
+Aifield社員数約90名のうち、データサイエンティスト協会の定義するSenior Data Scientist〜Assosiate Data Scientistレベルまで、54名が在籍(2021年5月末時点)し、お客様のKPI/KGI達成のための分析・指導をはじめ予測モデル作成、AIサービスの企画・構築などをおこなっています。
+また、日々のデータ集計、分析といったお客様のビジネス推進から、分析環境構築(オンプレミス、クラウド)、BI導入による見える化といった支援もおこないます。
+
+月給
+
+年収:500万円~900万円(月収:34万7千200円~)
+うち固定残業代 2万7千125円/10h~
+※超過分は別途支給
+※スキルに応じ、決定します
+
+雇用形態 正社員",,,,,,,,,,,,,,,,,,92,,
+東京中央オフィス/東京広域オフィス,SE/PG/IT・クリエイティブ,,japan,"【職種】
+[派遣]システムエンジニア(SE)、プログラマー(PG)、IT・クリエイティブ/クリエイターその他
+
+【雇用形態】
+派遣
+
+【仕事内容】
+【データ分析業務】
+・提供サービスの各種データ分析/ユーザ抽出
+・BIツールへのデータ取り込みによる可視化
+・単一プロジェクトにおけるデータ処理・環境構築をFull DataScientistに相談しつつ推進をお願いします。
+・Assistant Data Scientistの日々の活動に適切な指示をお願いします。
+・数千万レコード程度のデータ処理
+
+こちらのお仕事の他にも様々なエリアにてお仕事をご紹介させていただいております。
+職種も多数取り揃えておりますので、ぜひご登録下さい。
+
+【勤務地】
+東京都豊島区
+山手線　池袋駅　徒歩10分
+
+【給与】
+[派遣]時給2,600円~
+
+全額支給
+
+【月収例】
+39万円時給2600円150時間(残業代別途)
+すべてのお仕事に交通費支給!
+過去「やってみたい」というお仕事があっても交通費が支給されなかったので、
+諦めてしまったというご経験がある方に朗報です
+スタッフサービス ITソリューションが紹介する案件は交通費支給!あなたがやりたいと思える、好きなお仕事で働きましょう!
+
+【勤務時間】
+長期
+[派遣]09:30~18:00
+
+【休日】
+日曜日、土曜日、祝日
+完全週休2日制(土日祝休み)
+
+【対象となる方】
+【こんなスキルや経験のある方を歓迎します!】
+・分析関数/高度SQL文作成と実行スキル
+
+【活かせる経験】
+・DWHによる帳票開発、BIツール開発、データ分析業務経験
+
+【待遇・福利厚生】
+各種保険
+スタッフサービスは労働者災害補償保険、健康保険、厚生年金保険、雇用保険の適用事業所です。
+有給休暇
+当社との雇用契約に基づく就業開始日を起算日として、6ヶ月経過した時点で、勤労日数に応じて有給休暇を付与します。
+スキルアップ・研修制度
+提携のスクール・eラーニング・通信講座多数!CAD、プログラミング、ものづくりや化学等の技術知識や語学、PCスキルをしっかり身に付けられます。資格取得のための足がかり、業務に直結したスキルアップ等、目的に応じて受講可能です。
+
+【応募先】
+株式会社スタッフサービス 東京中央オフィス/東京広域オフィス
+東京都千代田区神田練塀町85番地 JEBL秋葉原スクエア10階
+
+派遣派13-011061 紹介[13-ユ-010724]",,,,,,,,,,,,,,,,,,92,,
+ユナイテッドワールド株式会社,IT、通信 > ソフトウェア開発,,japan,"求人ID : 1360783 更新日 : 2022年10月14日
+50% are foreigners.
+[Fundraising platform] Own product data scientist
+勤務地
+東京都 23区
+
+雇用形態
+正社員
+
+給与
+600万円 ~ 1000万円
+
+リモートワーク・在宅勤務 服装カジュアル 残業少なめ フレックスタイム制",,,,,,,,,,,,,,,,,,92,,
+KLA,Product Development Engineering,,japan,"Company Overview
+KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and we invest 15% of sales back into R&D. Our expert teams of physicists, engineers, data scientists and problem-solvers work together with the world’s leading technology providers to accelerate the delivery of tomorrow’s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us.
+With over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next-generation devices to volume production quickly and cost-effectively. Enabling the movement towards advanced chip design, KLA's Global Products Group (GPG), which is responsible for creating all of KLA’s metrology and inspection products, is looking for the best and the brightest research scientist, software engineers, application development engineers, and senior product technology process engineers. The Surfscan group includes a team of engineers, technology development, apps engineers and product marketing focused on technology that enables wafer, IC and equipment manufacturers to develop, qualify and monitor their process tools. Defects and process non-uniformities detected on Surfscan equipment allow for early identification of yield excursions. The flagship Surfscan products include the SPx platforms for wafer surface quality and wafer defect inspection tools and systems for inspection of polished wafers, epi wafers and engineered substrates during the wafer fabrication process.",,,,,,,,,,,,,,,,,,92,,
+ユナイテッドワールド株式会社,IT、通信 > ウェブ開発,,japan,"求人ID : 1358639 更新日 : 2022年10月10日
+50% are foreigners.
+[Fundraising platform] Own product cloud architect
+勤務地
+東京都 23区
+
+雇用形態
+正社員
+
+給与
+400万円 ~ 800万円
+
+リモートワーク・在宅勤務 服装カジュアル 残業少なめ フレックスタイム制",,,,,,,,,,,,,,,,,,92,,
+ユナイテッドワールド株式会社,IT、通信 > マネジメント,,japan,"求人ID : 1357123 更新日 : 2022年10月04日
+50% are foreigners.
+[Fundraising platform] Own product tech lead
+勤務地
+東京都 23区
+
+雇用形態
+正社員
+
+給与
+600万円 ~ 1500万円
+
+リモートワーク・在宅勤務 服装カジュアル 残業少なめ フレックスタイム制",,,,,,,,,,,,,,,,,,92,,
+ヘイズ・スペシャリスト・リクルートメント・ジャパン株式会社,Senior Medical Director,,japan,"Senior Medical Director
+New Role, Major International Pharma looking for the Senior Medical Director
+
+Your new company
+
+Leading International Pharmaceutical company is looking for a Senior Medical Director , a scientist who can lead a team of 15 members, able to devise and implement Medical Strategy, identify unmet medical needs of patients, address data gaps and generate meaningful evidence. If you have lead a team in Medical Affairs or Clinical Development, if you have a strong scientific expertise in any therapeutic area, if you are looking for a step up in your career, if you are interested in making a difference in the health care landscape helping patients on a mass-scale, if you would like to realize your vision of Medical Affairs, than this is the role for you.
+
+
+
+
+
+
+
+
+
+詳細については、Besjan.Leka@hays.co.jpまたは+81（0）3 3560 1937まで ベシアン レカ 宛にお問い合わせください。この仕事だけでなく、転職をお考えであれば、ご遠慮なくお問い合わせください。 #1091375",,,,,,,,,,,,,,,,,,92,,
+Bristol Myers Squibb,"Senior Manager, Japan Clinical Trial Physician",,japan,"At Bristol Myers Squibb, we are inspired by a single vision – transforming patients’ lives through science. In oncology, hematology, immunology and cardiovascular disease – and one of the most diverse and promising pipelines in the industry – each of our passionate colleagues contribute to innovations that drive meaningful change. We bring a human touch to every treatment we pioneer. Join us and make a difference.
+Job Title
+Senior Manager, Japan Clinical Trial Physician (CTP)
+Division
+R&D / Global Drug Development / Japan Clinical Development
+Functional Area Description",,,,,,,,,,,,,,,,,,92,,
+日産自動車株式会社,ML/クラウド　エンジニア / ML and Cloud Engineering,,japan,"【技術系】 グローバル情報システム ML/クラウド エンジニア / ML and Cloud Engineering
+職務内容
+＜職務内容＞
+このポジションは、IS/IT MTP- Nissan Digital Next の一部であるData関連のイニシエーションをリードすることが期待されています。 最先端のAI、ML、クラウドの手法を様々なソース（社内外）からの大量のデータに適用し、これらのイニシアチブを設計、構築、運用することで、会社のMTPに直接貢献することを目指します。
+
+＜Main Tasks＞
+This position is expected to lead Data related initaitives which are part of IS/IT MTP- Nissan Digital Next. By applying state-of-the-art AI, ML and Cloud methods to large amounts of data from a variety of sources (internal and external) to design, build, and operationalize these initiatives in order to contribute directly towards the MTP of the company.
+
+＜アピールポイント（職務の魅力）＞
+世界中の企業でMLやクラウドのエンジニア、データサイエンティストが重要視されている一方で、自動車業界は以前にも増して新規参入者が増え、急速に変化しています。伝統ある企業でも、日産はCASEで市場をリードし続けていることを誇りに思っています。 この役割は、このような状況の中で、学術的な理論を実際のビジネスケースに適用し、データ分析に基づく具体的な成果を提供することです。
+
+＜Selling point of this position＞
+While ML and Cloud engineer and Data Scientist are becoming more and more critical for enterprises all over the world, the automobile industry is transforming rapidly with more new players entering the market than ever before. Even as a traditional company, Nissan prides itself on continuing to lead the market in CASE. This role will work directly within this context, applying academic theories into real-world business cases to provide a tangible outcome based on Data Analytics.",,,,,,,,,,,,,,,,,,92,,

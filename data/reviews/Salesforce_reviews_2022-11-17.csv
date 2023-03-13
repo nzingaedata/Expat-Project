@@ -1,0 +1,20 @@
+company,company_rating,recommend,ceo,category,demographic,demographic_rating
+Salesforce,4.4,90%,95%,raceEthnicity,Asian (74),4.3
+Salesforce,4.4,90%,95%,raceEthnicity,Black or African American (22),3.7
+Salesforce,4.4,90%,95%,raceEthnicity,Hispanic or Latinx (23),4.0
+Salesforce,4.4,90%,95%,raceEthnicity,Indigenous American or Alaska Native (5),3.8
+Salesforce,4.4,90%,95%,raceEthnicity,Middle Eastern (9),4.9
+Salesforce,4.4,90%,95%,raceEthnicity,White (151),4.3
+Salesforce,4.4,90%,95%,raceEthnicity,Native Hawaiian or Other Pacific Islander,—
+Salesforce,4.4,90%,95%,gender,Men (195),4.4
+Salesforce,4.4,90%,95%,gender,Transgender and/or Non-Binary (5),3.2
+Salesforce,4.4,90%,95%,gender,Women (128),4.1
+Salesforce,4.4,90%,95%,sexualOrientation,Heterosexual (222),4.2
+Salesforce,4.4,90%,95%,sexualOrientation,LGBTQ+ (24),4.2
+Salesforce,4.4,90%,95%,disability,Non-disabled (224),4.3
+Salesforce,4.4,90%,95%,disability,People with Disabilities (22),4.1
+Salesforce,4.4,90%,95%,parentOrCaregiver,Caregivers (6),3.9
+Salesforce,4.4,90%,95%,parentOrCaregiver,Not a Parent or Caregiver (144),4.2
+Salesforce,4.4,90%,95%,parentOrCaregiver,Parents/Guardians (84),4.4
+Salesforce,4.4,90%,95%,veteranStatus,Non-Veterans (227),4.2
+Salesforce,4.4,90%,95%,veteranStatus,Veterans (8),3.4
