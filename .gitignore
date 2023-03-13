@@ -2,6 +2,6 @@
 .ipynb_checkpoints
 .env
 .gitignore
-images
 info.docx
 chromedriver
+data_science_jobs_insights.ipynb
