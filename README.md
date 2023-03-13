@@ -2,6 +2,8 @@
 #### Exploratory Data Analysis of Data Science Jobs scraped from Glassdoor
 #### By Nzinga Eduardo
 
+<img src="images/data_analyst1.jpeg" width="600" height="500" />
+
 ### Motivation
 I am a US based Data Scientist looking to make a major lifestyle change which includes living abroad and looking for remote or hybrid opportunities. In order to best prepare for the next opportunity, I thought it would be best to review popular job search engines to see which companies were best reviewed by their employees and offered the best work-life balance, benefits and salaries across different countries. I am applying for entry/junior level positions and want to know whick skills I would need to develop or freshen up before applying for the job.
 
